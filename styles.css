@@ -967,6 +967,40 @@ a:hover { color: var(--gold-deep); }
 .loc__pin--live { color: #2d7d3c; background: rgba(92, 194, 109, 0.18); }
 .loc__pin--soon { color: var(--pink); background: rgba(236, 0, 140, 0.12); }
 .loc__pin--heritage { color: var(--gold-deep); background: rgba(212, 175, 55, 0.18); }
+.loc__pin--india { color: #b35400; background: rgba(255, 153, 51, 0.18); }
+
+.locations__country {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+  font-family: var(--serif);
+  font-size: clamp(20px, 2.4vw, 28px);
+  font-weight: 600;
+  color: var(--ink);
+  letter-spacing: -0.005em;
+  margin: 56px 0 22px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--line);
+}
+.locations__country:first-of-type { margin-top: 0; }
+.locations__country span { display: inline-flex; align-items: center; gap: 12px; }
+.locations__country span::before {
+  content: '';
+  width: 6px; height: 22px;
+  border-radius: 2px;
+  background: linear-gradient(180deg, var(--pink), var(--gold));
+}
+.locations__country em {
+  font-family: var(--sans);
+  font-style: normal;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
 
 .loc h3 {
   font-family: var(--serif);
