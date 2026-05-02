@@ -51,9 +51,28 @@
       "addressCountry": "AE"
     }
   ],
+  "openingHours": "Mo-Su 11:00-23:00",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "673",
+    "bestRating": "5"
+  },
+  "hasMenu": "https://food.noon.com/uae-en/outlet/SLMNSMDFEA/",
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": [
+      "https://food.noon.com/uae-en/outlet/SLMNSMDFEA/",
+      "https://www.talabat.com/uae/restaurant/755666/suleman-usman-mithaiwala-restaurant-and-sweets-dubai-healthcare-city",
+      "https://www.zomato.com/dubai/abdul-gafoor-suleman-usman-mithaiwala-restaurant-meena-bazaar",
+      "https://www.eateasy.ae/dubai/suleman-usman-mithaiwala-restaurant-and-sweets-meena-bazaar"
+    ]
+  },
   "sameAs": [
     "https://www.instagram.com/sulemanusmanmithaiwala/",
-    "https://www.facebook.com/agsulemanusmanmithaiwala/"
+    "https://www.facebook.com/agsulemanusmanmithaiwala/",
+    "https://food.noon.com/uae-en/outlet/SLMNSMDFEA/",
+    "https://www.zomato.com/dubai/abdul-gafoor-suleman-usman-mithaiwala-restaurant-meena-bazaar"
   ]
 }
 </script>
@@ -65,7 +84,9 @@
      ========================================================= -->
 <div class="topbar">
   <div class="container topbar__inner">
-    <span class="topbar__item">A 100-Year Legacy &middot; Now in Dubai &amp; Sharjah</span>
+    <span class="topbar__item topbar__item--rating"><span class="topbar__star">&#9733;</span> 4.3 on Google &middot; 673+ reviews</span>
+    <span class="topbar__divider">|</span>
+    <span class="topbar__item">Open Daily &middot; 11 AM &mdash; 11 PM</span>
     <span class="topbar__divider">|</span>
     <a class="topbar__item" href="https://wa.me/971557133786" target="_blank" rel="noopener">WhatsApp +971 55 713 3786</a>
   </div>
@@ -90,6 +111,7 @@
       <a href="#legacy">Legacy</a>
       <a href="#presence">Global</a>
       <a href="#menu">Menu</a>
+      <a href="#order">Order</a>
       <a href="#locations">Locations</a>
       <a href="#partner">Partner</a>
       <a href="#contact" class="btn btn--ghost">Contact</a>
@@ -323,6 +345,47 @@
 </section>
 
 <!-- =========================================================
+     ORDER ONLINE
+     ========================================================= -->
+<section class="order section section--cream" id="order">
+  <div class="container">
+    <div class="section__head section__head--center">
+      <span class="eyebrow">Order Online</span>
+      <h2 class="section__title">Delivered hot to your door</h2>
+      <p class="section__lede">Order on your favourite platform &mdash; or skip the apps and message us directly on WhatsApp for a personal touch.</p>
+    </div>
+
+    <div class="order__grid">
+      <a class="order__card order__card--noon" href="https://food.noon.com/uae-en/outlet/SLMNSMDFEA/" target="_blank" rel="noopener">
+        <span class="order__brand">noon food</span>
+        <span class="order__hint">~45 min &middot; AED 7 delivery</span>
+        <span class="order__cta">Order on Noon &rarr;</span>
+      </a>
+      <a class="order__card order__card--talabat" href="https://www.talabat.com/uae/restaurant/755666/suleman-usman-mithaiwala-restaurant-and-sweets-dubai-healthcare-city" target="_blank" rel="noopener">
+        <span class="order__brand">talabat</span>
+        <span class="order__hint">UAE-wide delivery</span>
+        <span class="order__cta">Order on Talabat &rarr;</span>
+      </a>
+      <a class="order__card order__card--zomato" href="https://www.zomato.com/dubai/abdul-gafoor-suleman-usman-mithaiwala-restaurant-meena-bazaar" target="_blank" rel="noopener">
+        <span class="order__brand">Zomato</span>
+        <span class="order__hint">Reviews &amp; menu</span>
+        <span class="order__cta">View on Zomato &rarr;</span>
+      </a>
+      <a class="order__card order__card--eateasy" href="https://www.eateasy.ae/dubai/suleman-usman-mithaiwala-restaurant-and-sweets-meena-bazaar" target="_blank" rel="noopener">
+        <span class="order__brand">EatEasy</span>
+        <span class="order__hint">~45 min &middot; AED 2.90 delivery</span>
+        <span class="order__cta">Order on EatEasy &rarr;</span>
+      </a>
+      <a class="order__card order__card--whatsapp" href="https://wa.me/971557133786" target="_blank" rel="noopener">
+        <span class="order__brand">WhatsApp</span>
+        <span class="order__hint">Direct &middot; personal &middot; bulk-friendly</span>
+        <span class="order__cta">Message us &rarr;</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- =========================================================
      WHY CHOOSE US
      ========================================================= -->
 <section class="why section section--cream">
@@ -415,11 +478,12 @@
     </div>
 
     <div class="locations__grid">
-      <article class="loc">
-        <span class="loc__pin loc__pin--live">Live</span>
+      <article class="loc loc--flagship">
+        <span class="loc__pin loc__pin--live">Flagship &middot; Live</span>
         <h3>Bur Dubai &mdash; Restaurant &amp; Sweets</h3>
         <p>Meena Bazaar, Al Fahidi,<br />Bur Dubai, Dubai &mdash; UAE</p>
-        <p class="loc__hours">Open daily &middot; Walk-in &middot; Online delivery</p>
+        <p class="loc__hours">Open Daily &middot; 11 AM &mdash; 11 PM</p>
+        <p class="loc__rating"><span>&#9733;</span> 4.3 on Google &middot; 673+ reviews</p>
         <div class="loc__cta">
           <a class="btn btn--small btn--primary" href="https://wa.me/971557133786" target="_blank" rel="noopener">WhatsApp</a>
           <a class="btn btn--small btn--outline" href="https://maps.google.com/?q=AG+Suleman+Usman+Mithaiwala+Meena+Bazaar+Bur+Dubai" target="_blank" rel="noopener">Directions</a>
