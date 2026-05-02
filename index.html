@@ -2,291 +2,411 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta name="description" content="Suleman Usman Mithaiwala — Mumbai's most beloved sweet shop, crafting authentic Indian mithai and bakery delicacies since 1936. Famous for Aflatoon, Mawa Jalebi, Malpua and more." />
-<meta name="theme-color" content="#6b1f1a" />
-<title>Suleman Usman Mithaiwala — Authentic Indian Sweets Since 1936</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+
+<title>AG Suleman Usman Mithaiwala Dubai &mdash; A Century of Sweetness, Since 1926</title>
+<meta name="description" content="A 100-year-old Bombay sweets and restaurant brand, now in Dubai &amp; Sharjah, expanding across the GCC. Authentic mithai, halwa, kababs and curries crafted by the third generation of the Mithaiwala family." />
+<meta name="theme-color" content="#0a0a0a" />
+<meta name="keywords" content="Suleman Usman Mithaiwala, AG Mithaiwala Dubai, Indian sweets Dubai, Mawa Jalebi Dubai, Bombay halwa, Bur Dubai sweets, Sharjah mithai, Indian restaurant Dubai, partnership investment mithai brand" />
+
+<!-- Open Graph -->
+<meta property="og:type" content="restaurant" />
+<meta property="og:title" content="AG Suleman Usman Mithaiwala — A Century of Sweetness, Since 1926" />
+<meta property="og:description" content="Authentic Bombay sweets and Mughlai restaurant. Third-generation family business expanding across UAE, Saudi Arabia and India." />
+<meta property="og:image" content="images/mawa-jalebi.jpg" />
+<meta property="og:locale" content="en_AE" />
+<meta name="twitter:card" content="summary_large_image" />
 
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700;800&family=Inter:wght@300;400;500;600;700&family=Cormorant+Garamond:ital,wght@0,500;1,400&display=swap" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700;800;900&family=Inter:wght@300;400;500;600;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;1,400&display=swap" rel="stylesheet" />
 
 <link rel="stylesheet" href="styles.css" />
+
+<!-- Structured data: Restaurant + Branches -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "AG Suleman Usman Mithaiwala",
+  "alternateName": "Suleman Usman Mithaiwala Restaurant & Sweets",
+  "description": "Authentic Bombay sweets, halwa and Mughlai restaurant. A 100-year-old family brand established in 1926, now in Dubai & Sharjah with planned expansion across Saudi Arabia.",
+  "foundingDate": "1926",
+  "image": "images/mawa-jalebi.jpg",
+  "servesCuisine": ["Indian Sweets", "Mughlai", "Bombay Cuisine", "Halwa", "Bakery"],
+  "priceRange": "$$",
+  "telephone": "+971-55-713-3786",
+  "address": [
+    {
+      "@type": "PostalAddress",
+      "streetAddress": "Meena Bazaar, Al Fahidi",
+      "addressLocality": "Bur Dubai",
+      "addressRegion": "Dubai",
+      "addressCountry": "AE"
+    },
+    {
+      "@type": "PostalAddress",
+      "streetAddress": "Muwaileh Commercial, Industrial Area",
+      "addressLocality": "Sharjah",
+      "addressCountry": "AE"
+    }
+  ],
+  "sameAs": [
+    "https://www.instagram.com/sulemanusmanmithaiwala/",
+    "https://www.facebook.com/agsulemanusmanmithaiwala/"
+  ]
+}
+</script>
 </head>
 <body>
 
-<!-- Top contact strip -->
+<!-- =========================================================
+     TOPBAR
+     ========================================================= -->
 <div class="topbar">
   <div class="container topbar__inner">
-    <span class="topbar__item">Below Minara Masjid, Mohammed Ali Road, Mumbai</span>
+    <span class="topbar__item">A 100-Year Legacy &middot; Now in Dubai &amp; Sharjah</span>
     <span class="topbar__divider">|</span>
-    <a class="topbar__item" href="tel:+918655666200">+91 86556 66200</a>
-    <span class="topbar__divider">|</span>
-    <a class="topbar__item" href="mailto:sulemanusmanmithaiwala167@gmail.com">sulemanusmanmithaiwala167@gmail.com</a>
+    <a class="topbar__item" href="https://wa.me/971557133786" target="_blank" rel="noopener">WhatsApp +971 55 713 3786</a>
   </div>
 </div>
 
-<!-- Sticky navigation -->
+<!-- =========================================================
+     STICKY NAV
+     ========================================================= -->
 <header class="nav" id="nav">
   <div class="container nav__inner">
     <a href="#home" class="brand">
       <span class="brand__mark">SUM</span>
       <span class="brand__text">
-        <span class="brand__name">Suleman Usman</span>
-        <span class="brand__tag">Mithaiwala &middot; Since 1936</span>
+        <span class="brand__name">Suleman Usman Mithaiwala</span>
+        <span class="brand__tag">Restaurant &amp; Sweets &middot; Since 1926</span>
       </span>
     </a>
     <button class="nav__toggle" aria-label="Open menu" aria-expanded="false">
       <span></span><span></span><span></span>
     </button>
     <nav class="nav__links" id="navLinks">
-      <a href="#heritage">Heritage</a>
-      <a href="#signature">Signature</a>
-      <a href="#catalogue">Catalogue</a>
+      <a href="#legacy">Legacy</a>
+      <a href="#presence">Global</a>
+      <a href="#menu">Menu</a>
       <a href="#locations">Locations</a>
-      <a href="#contact">Contact</a>
-      <a href="#contact" class="btn btn--ghost">Order on Call</a>
+      <a href="#partner">Partner</a>
+      <a href="#contact" class="btn btn--ghost">Contact</a>
     </nav>
   </div>
 </header>
 
-<!-- Hero -->
+<!-- =========================================================
+     HERO
+     ========================================================= -->
 <section class="hero" id="home">
   <div class="hero__bg" aria-hidden="true"></div>
   <div class="hero__overlay" aria-hidden="true"></div>
   <div class="container hero__content">
-    <span class="badge">Established 1936 &middot; Mumbai</span>
+    <span class="badge"><span class="badge__dot"></span>Established 1926 &middot; Bombay</span>
     <h1 class="hero__title">
-      <span class="hero__title-pre">A nine-decade legacy of</span>
-      <span class="hero__title-main">Authentic Indian Mithai</span>
+      <span class="hero__title-pre">A Legacy of Sweetness</span>
+      <span class="hero__title-main">Since 1926</span>
     </h1>
     <p class="hero__sub">
-      From a small shop outside Minara Masjid to a name spoken with reverence across India and Dubai —
-      Suleman Usman Mithaiwala has been crafting India's most loved sweets for ninety years.
+      From a humble sweet shop outside a Bombay mosque to a globally expanding brand &mdash;
+      we craft authentic Indian mithai, halwa and Mughlai delicacies the same way our family has for a hundred years.
     </p>
     <div class="hero__actions">
-      <a href="#signature" class="btn btn--primary">Explore Our Sweets</a>
-      <a href="#heritage" class="btn btn--outline">Our Story</a>
+      <a href="#legacy" class="btn btn--primary">Explore Our Story</a>
+      <a href="#partner" class="btn btn--accent">Partner With Us</a>
     </div>
     <div class="hero__stats">
-      <div><strong>1936</strong><span>Founded</span></div>
-      <div><strong>90+</strong><span>Years of Trust</span></div>
-      <div><strong>4.3&#9733;</strong><span>5,800+ Reviews</span></div>
-      <div><strong>Mumbai &middot; Dubai</strong><span>Outlets</span></div>
+      <div><strong>1926</strong><span>Founded in Bombay</span></div>
+      <div><strong>3<sup>rd</sup></strong><span>Generation Today</span></div>
+      <div><strong>UAE &middot; KSA &middot; IN</strong><span>Going Global</span></div>
+      <div><strong>100+</strong><span>Years of Trust</span></div>
     </div>
   </div>
-  <a href="#heritage" class="hero__scroll" aria-label="Scroll to story">
-    <span></span>
-  </a>
+  <a href="#legacy" class="hero__scroll" aria-label="Scroll to story"><span></span></a>
 </section>
 
-<!-- Heritage -->
-<section class="heritage section" id="heritage">
-  <div class="container heritage__grid">
-    <div class="heritage__media">
-      <div class="heritage__year">1936</div>
-      <div class="heritage__photo" aria-hidden="true"></div>
-      <div class="heritage__caption">A passion that began outside a mosque in Bombay</div>
+<!-- =========================================================
+     ABOUT / LEGACY
+     ========================================================= -->
+<section class="legacy section" id="legacy">
+  <div class="container legacy__grid">
+    <div class="legacy__media">
+      <div class="legacy__year">1926</div>
+      <div class="legacy__photo">
+        <img src="images/mawa-jalebi.jpg" alt="Suleman Usman Mithaiwala signature Mawa Jalebi" loading="lazy" />
+      </div>
+      <div class="legacy__caption">A passion that began outside a mosque in Bombay, in 1926.</div>
     </div>
-    <div class="heritage__copy">
-      <span class="eyebrow">Our Heritage</span>
-      <h2 class="section__title">Where every sweet carries a story</h2>
+
+    <div class="legacy__copy">
+      <span class="eyebrow">Our Story</span>
+      <h2 class="section__title">We don't just make sweets &mdash; we craft traditions.</h2>
       <p>
-        It began with Sulemanbhai &mdash; a young bakery assistant from Poona, who arrived in Bombay
-        with a single ambition: to make sweets so honest and so generous that strangers would return
-        as family. In 1936, he set up a modest shop just outside Minara Masjid on Mohammed Ali Road.
+        Our journey began in 1926, when <strong>Sulemanbhai</strong>, a passionate young bakery
+        assistant from Poona, set up a small sweet shop outside a mosque in Mumbai. Over the decades,
+        an unwavering commitment to quality, authenticity and taste made us a household name across
+        India and beyond.
       </p>
       <p>
-        Nine decades later, that quiet little stall has grown into one of India's most iconic
-        mithai houses. Through generations &mdash; from Sulemanbhai to his son Abdul Gafoor, and
-        the family that carries the name today &mdash; the recipes, the standards, and the warmth
-        have remained untouched by time.
+        The brand was strengthened by <strong>Abdul Gafoor Suleman Usman Mithaiwala</strong>, who
+        carried forward the vision with quiet dedication &mdash; ensuring the taste, the recipes and
+        the trust remained unchanged.
       </p>
-      <ul class="pillars">
-        <li><span>01</span><div><h4>Authentic Recipes</h4><p>Hand-written, hand-passed and unchanged for ninety years.</p></div></li>
-        <li><span>02</span><div><h4>Pure Ingredients</h4><p>Fresh khoya, ghee, hand-picked dry fruits &mdash; no shortcuts.</p></div></li>
-        <li><span>03</span><div><h4>Family Craft</h4><p>Every piece still finished by hands that know the dough.</p></div></li>
-      </ul>
+      <p>
+        Today, the <strong>third generation</strong> of the Mithaiwala family is leading the
+        expansion &mdash; working day and night to take this legacy to new heights across the world.
+      </p>
+
+      <div class="timeline">
+        <div class="timeline__item">
+          <div class="timeline__year">1926</div>
+          <div class="timeline__body">
+            <h4>The Beginning</h4>
+            <p>Sulemanbhai opens a single sweet shop outside Minara Masjid, Mohammed Ali Road, Bombay.</p>
+          </div>
+        </div>
+        <div class="timeline__item">
+          <div class="timeline__year">1970s</div>
+          <div class="timeline__body">
+            <h4>Second Generation</h4>
+            <p>Abdul Gafoor Suleman Usman cements the brand as Mumbai's most beloved mithai destination.</p>
+          </div>
+        </div>
+        <div class="timeline__item">
+          <div class="timeline__year">Today</div>
+          <div class="timeline__body">
+            <h4>Third Generation &amp; Global</h4>
+            <p>The family takes the legacy international &mdash; UAE thriving, Saudi Arabia next, the world after.</p>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </section>
 
-<!-- Signature sweets -->
-<section class="signature section section--cream" id="signature">
+<!-- =========================================================
+     GLOBAL PRESENCE
+     ========================================================= -->
+<section class="presence section section--dark" id="presence">
   <div class="container">
     <div class="section__head section__head--center">
-      <span class="eyebrow">Signature Selection</span>
-      <h2 class="section__title">Sweets that built the legend</h2>
-      <p class="section__lede">A handful of creations are inseparable from our name. These are the pieces guests travel across the city &mdash; and across continents &mdash; to taste.</p>
+      <span class="eyebrow eyebrow--light">Global Presence &amp; Expansion</span>
+      <h2 class="section__title section__title--light">Bringing Bombay to the World</h2>
+      <p class="section__lede section__lede--light">A clear vision, a scalable model and the same recipes our great-grandfather wrote down a hundred years ago.</p>
     </div>
 
-    <div class="cards">
-      <article class="card">
-        <div class="card__image card__image--aflatoon" aria-hidden="true"></div>
-        <div class="card__body">
-          <span class="card__tag">House Special</span>
-          <h3>Special Aflatoon</h3>
-          <p>A rich, layered fudge of khoya, semolina and dry fruit &mdash; widely called the finest sweet in Mumbai.</p>
-          <span class="card__price">From &#8377; 970</span>
-        </div>
+    <div class="presence__grid">
+      <article class="presence__card">
+        <div class="presence__flag" aria-hidden="true">UAE</div>
+        <h3>United Arab Emirates</h3>
+        <p class="presence__status presence__status--live">Active &middot; Growing</p>
+        <p>Strong customer base across <strong>Bur Dubai, Business Bay and Sharjah</strong>, serving walk-in guests and high-volume online orders every day.</p>
+        <ul>
+          <li>Bur Dubai &mdash; Meena Bazaar Restaurant &amp; Sweets</li>
+          <li>Sharjah &mdash; Muwaileh Commercial</li>
+          <li>Online delivery, catering &amp; live counters</li>
+        </ul>
       </article>
 
-      <article class="card">
-        <div class="card__image card__image--malpua" aria-hidden="true"></div>
-        <div class="card__body">
-          <span class="card__tag">Ramzan Special</span>
-          <h3>Mawa Malpua</h3>
-          <p>The legendary Ramzan pancake &mdash; rawa, maida, eggs, dry fruit &mdash; soaked in saffron syrup. Available only during the holy month.</p>
-          <span class="card__price">Seasonal</span>
-        </div>
+      <article class="presence__card presence__card--accent">
+        <div class="presence__flag" aria-hidden="true">KSA</div>
+        <h3>Saudi Arabia</h3>
+        <p class="presence__status presence__status--soon">Expansion in Progress</p>
+        <p>Actively expanding into <strong>Riyadh and Madinah</strong> &mdash; bringing authentic Bombay sweets to the Saudi market with a structured, scalable growth plan.</p>
+        <ul>
+          <li>Riyadh &mdash; flagship outlet planned</li>
+          <li>Madinah &mdash; pilgrim-season specialty</li>
+          <li>Investor &amp; partnership opportunities open</li>
+        </ul>
       </article>
 
-      <article class="card">
-        <div class="card__image card__image--jalebi" aria-hidden="true"></div>
-        <div class="card__body">
-          <span class="card__tag">Iconic</span>
-          <h3>Mawa Jalebi</h3>
-          <p>Crisp, golden, dripping with syrup &mdash; the jalebi that has people queuing down Mohammed Ali Road every evening of Ramzan.</p>
-          <span class="card__price">By Weight</span>
-        </div>
-      </article>
-
-      <article class="card">
-        <div class="card__image card__image--halwa" aria-hidden="true"></div>
-        <div class="card__body">
-          <span class="card__tag">Heritage</span>
-          <h3>Mahim Halwa</h3>
-          <p>Translucent, chewy, scented with rose &mdash; a Bombay heirloom we have made the same way for decades.</p>
-          <span class="card__price">From &#8377; 466</span>
-        </div>
-      </article>
-
-      <article class="card">
-        <div class="card__image card__image--gulab" aria-hidden="true"></div>
-        <div class="card__body">
-          <span class="card__tag">Classic</span>
-          <h3>Gulab Jamun</h3>
-          <p>Soft khoya pearls in fragrant syrup &mdash; warm, glistening, and almost a meditation.</p>
-          <span class="card__price">By Weight</span>
-        </div>
-      </article>
-
-      <article class="card">
-        <div class="card__image card__image--sohan" aria-hidden="true"></div>
-        <div class="card__body">
-          <span class="card__tag">Festive Favourite</span>
-          <h3>Sohan Papdi</h3>
-          <p>Flaky ribbons of besan and ghee that crumble at a touch and finish with cardamom and pistachio.</p>
-          <span class="card__price">From &#8377; 474</span>
-        </div>
+      <article class="presence__card">
+        <div class="presence__flag" aria-hidden="true">IND</div>
+        <h3>India</h3>
+        <p class="presence__status presence__status--live">Heritage Home</p>
+        <p>Our roots remain strong in Mumbai, where the brand continues to serve generations of loyal customers from the original Mohammed Ali Road location.</p>
+        <ul>
+          <li>Mumbai &mdash; flagship since 1926</li>
+          <li>Bakery outlet on Mohammedali Road</li>
+          <li>Pan-India dispatch &amp; festive hampers</li>
+        </ul>
       </article>
     </div>
   </div>
 </section>
 
-<!-- Catalogue with tabs -->
-<section class="catalogue section" id="catalogue">
+<!-- =========================================================
+     MENU — filterable
+     ========================================================= -->
+<section class="menu section" id="menu">
   <div class="container">
     <div class="section__head section__head--center">
-      <span class="eyebrow">Full Catalogue</span>
-      <h2 class="section__title">An entire world of flavour</h2>
-      <p class="section__lede">From silken halwas to morning bakery treats &mdash; explore the full range crafted in our kitchens.</p>
+      <span class="eyebrow">The Menu</span>
+      <h2 class="section__title">A century of flavour, on one table</h2>
+      <p class="section__lede">From iconic Mawa Jalebi to slow-cooked Mutton Khichra &mdash; explore everything our kitchens craft, daily.</p>
     </div>
 
-    <div class="tabs" role="tablist">
-      <button class="tab is-active" data-tab="sweets" role="tab">Sweets</button>
-      <button class="tab" data-tab="bakery" role="tab">Bakery</button>
-      <button class="tab" data-tab="seasonal" role="tab">Seasonal &amp; Gift</button>
+    <div class="filters" role="tablist">
+      <button class="chip is-active" data-filter="all">All</button>
+      <button class="chip" data-filter="mithai">Mithai</button>
+      <button class="chip" data-filter="halwa">Halwa</button>
+      <button class="chip" data-filter="bakery">Bakery</button>
+      <button class="chip" data-filter="tikka">Tikka &amp; Kabab</button>
+      <button class="chip" data-filter="curry">Curries</button>
+      <button class="chip" data-filter="rice">Rice &amp; Khichra</button>
+      <button class="chip" data-filter="pav">Pav &amp; Snacks</button>
+      <button class="chip" data-filter="tawa">Tawa Specials</button>
     </div>
 
-    <div class="panel is-active" data-panel="sweets">
-      <div class="panel__group">
-        <h4>Aflatoon &amp; Halwa</h4>
-        <ul><li>Special Aflatoon</li><li>Mahim Halwa</li><li>Black Currant Halwa</li><li>Karachi Halwa</li><li>Dry Fruit Halwa</li></ul>
-      </div>
-      <div class="panel__group">
-        <h4>Khoya &amp; Milk Sweets</h4>
-        <ul><li>Mawa Jalebi</li><li>Gulab Jamun</li><li>Rasgulla</li><li>Kala Jamun</li><li>Peda</li><li>Firni</li></ul>
-      </div>
-      <div class="panel__group">
-        <h4>Barfi &amp; Katri</h4>
-        <ul><li>Kaju Katli</li><li>Pista Barfi</li><li>Almond Roll</li><li>Coconut Barfi</li><li>Anjeer Roll</li></ul>
-      </div>
-      <div class="panel__group">
-        <h4>Dry Fruit Range</h4>
-        <ul><li>Anjeer Khajoor</li><li>Walnut Roll</li><li>Pista Roll</li><li>Dry Fruit Mix</li></ul>
-      </div>
-      <div class="panel__group">
-        <h4>Sugar Free</h4>
-        <ul><li>Sugar Free Kaju</li><li>Sugar Free Anjeer</li><li>Sugar Free Mix</li></ul>
-      </div>
-      <div class="panel__group">
-        <h4>Sohan &amp; Mix</h4>
-        <ul><li>Sohan Papdi (White)</li><li>Sohan Papdi (Saffron)</li><li>Mix Mithai Box</li></ul>
-      </div>
+    <div class="menu__grid" id="menuGrid">
+
+      <!-- MITHAI -->
+      <article class="dish" data-cat="mithai"><img src="images/mawa-jalebi.jpg" alt="Mawa Jalebi" loading="lazy" /><div class="dish__body"><span class="dish__tag">Iconic</span><h3>Mawa Jalebi</h3><p>The legendary crisp, syrup-soaked spiral that built our name.</p></div></article>
+      <article class="dish" data-cat="mithai"><img src="images/malpua-rabdi.jpg" alt="Malpua with Rabdi" loading="lazy" /><div class="dish__body"><span class="dish__tag">Ramzan Special</span><h3>Malpua with Rabdi</h3><p>Saffron-soaked pancake topped with thick, slow-cooked rabdi.</p></div></article>
+      <article class="dish" data-cat="mithai"><img src="images/special-pista-aflatoon.jpg" alt="Special Pista Aflatoon" loading="lazy" /><div class="dish__body"><span class="dish__tag">House Special</span><h3>Special Pista Aflatoon</h3><p>Layered fudge with khoya, semolina and pistachio &mdash; the king of our shelves.</p></div></article>
+      <article class="dish" data-cat="mithai"><img src="images/special-badam-aflatoon.jpg" alt="Special Badam Aflatoon" loading="lazy" /><div class="dish__body"><span class="dish__tag">Premium</span><h3>Special Badam Aflatoon</h3><p>Almond-rich aflatoon, finished with a delicate gold leaf.</p></div></article>
+      <article class="dish" data-cat="mithai"><img src="images/dryfruit-aflatoon.jpg" alt="Dry Fruit Aflatoon" loading="lazy" /><div class="dish__body"><span class="dish__tag">Festive</span><h3>Dry Fruit Aflatoon</h3><p>Generously studded with cashews, almonds and pistachio.</p></div></article>
+      <article class="dish" data-cat="mithai"><img src="images/kaju-aflatoon.jpg" alt="Kaju Aflatoon" loading="lazy" /><div class="dish__body"><span class="dish__tag">Premium</span><h3>Kaju Aflatoon</h3><p>Rich cashew variant of our signature aflatoon.</p></div></article>
+      <article class="dish" data-cat="mithai"><img src="images/normal-aflatoon.jpg" alt="Aflatoon Classic" loading="lazy" /><div class="dish__body"><span class="dish__tag">Classic</span><h3>Aflatoon Classic</h3><p>The original aflatoon &mdash; the way it has been made since 1926.</p></div></article>
+      <article class="dish" data-cat="mithai"><img src="images/mix-peda.jpg" alt="Mix Peda" loading="lazy" /><div class="dish__body"><span class="dish__tag">Festive</span><h3>Mix Peda</h3><p>An assortment of khoya pedas in pistachio, saffron and rose.</p></div></article>
+      <article class="dish" data-cat="mithai"><img src="images/pink-barfi.jpg" alt="Pink Barfi" loading="lazy" /><div class="dish__body"><span class="dish__tag">Heritage</span><h3>Pink Barfi</h3><p>Rose-tinted milk barfi, an old Bombay favourite.</p></div></article>
+      <article class="dish" data-cat="mithai"><img src="images/mawa-khaja.jpg" alt="Mawa Khaja" loading="lazy" /><div class="dish__body"><span class="dish__tag">Classic</span><h3>Mawa Khaja</h3><p>Flaky pastry soaked in syrup, finished with khoya.</p></div></article>
+      <article class="dish" data-cat="mithai"><img src="images/malai-rabdi.jpg" alt="Malai Rabdi" loading="lazy" /><div class="dish__body"><span class="dish__tag">Cold</span><h3>Malai Rabdi</h3><p>Thick, slow-reduced milk &mdash; chilled, perfumed with cardamom.</p></div></article>
+
+      <!-- HALWA -->
+      <article class="dish" data-cat="halwa"><img src="images/dryfruit-halwa.jpg" alt="Dry Fruit Halwa" loading="lazy" /><div class="dish__body"><span class="dish__tag">Premium</span><h3>Dry Fruit Halwa</h3><p>Loaded with almonds, cashews, walnuts and raisins.</p></div></article>
+      <article class="dish" data-cat="halwa"><img src="images/akhrot-halwa.jpg" alt="Akhrot Halwa" loading="lazy" /><div class="dish__body"><span class="dish__tag">Walnut</span><h3>Akhrot Halwa</h3><p>Rich, slow-cooked halwa with hand-shelled walnuts.</p></div></article>
+      <article class="dish" data-cat="halwa"><img src="images/anjeer-halwa.jpg" alt="Anjeer Halwa" loading="lazy" /><div class="dish__body"><span class="dish__tag">Fig</span><h3>Anjeer Halwa</h3><p>Naturally sweet halwa made with sun-ripened figs.</p></div></article>
+      <article class="dish" data-cat="halwa"><img src="images/gajar-halwa.jpg" alt="Gajar Halwa" loading="lazy" /><div class="dish__body"><span class="dish__tag">Winter Special</span><h3>Gajar Halwa</h3><p>Slow-cooked carrot halwa with khoya and saffron.</p></div></article>
+      <article class="dish" data-cat="halwa"><img src="images/dudhi-halwa.jpg" alt="Dudhi Halwa" loading="lazy" /><div class="dish__body"><span class="dish__tag">Classic</span><h3>Dudhi Halwa</h3><p>Bottle gourd halwa, light and beautifully fragrant.</p></div></article>
+
+      <!-- BAKERY -->
+      <article class="dish" data-cat="bakery"><img src="images/nankhatai-rawa.jpg" alt="Nankhatai Rawa" loading="lazy" /><div class="dish__body"><span class="dish__tag">Bakery</span><h3>Nankhatai Rawa</h3><p>Buttery, ghee-rich shortbread with a hint of cardamom.</p></div></article>
+      <article class="dish" data-cat="bakery"><img src="images/nankhatai-dryfruit.jpg" alt="Nankhatai Dry Fruit" loading="lazy" /><div class="dish__body"><span class="dish__tag">Premium</span><h3>Nankhatai Dry Fruit</h3><p>Our classic nankhatai loaded with chopped pistachio and almond.</p></div></article>
+      <article class="dish" data-cat="bakery"><img src="images/maska-khari.jpg" alt="Maska Khari" loading="lazy" /><div class="dish__body"><span class="dish__tag">Tea-Time</span><h3>Maska Khari</h3><p>Crisp, flaky puff pastry &mdash; the perfect khari with chai.</p></div></article>
+      <article class="dish" data-cat="bakery"><img src="images/maska-pav.jpg" alt="Maska Pav Kadak" loading="lazy" /><div class="dish__body"><span class="dish__tag">Tea-Time</span><h3>Maska Pav Kadak</h3><p>Toasted pav loaded with butter &mdash; just like Bombay's Irani cafes.</p></div></article>
+
+      <!-- TIKKA & KABAB -->
+      <article class="dish" data-cat="tikka"><img src="images/chicken-tikka.jpg" alt="Chicken Tikka" loading="lazy" /><div class="dish__body"><span class="dish__tag">Tandoor</span><h3>Chicken Tikka (8 pcs)</h3><p>Yogurt-marinated, smoke-kissed chicken from the tandoor.</p></div></article>
+      <article class="dish" data-cat="tikka"><img src="images/chicken-malai-tikka.jpg" alt="Chicken Malai Tikka" loading="lazy" /><div class="dish__body"><span class="dish__tag">Creamy</span><h3>Chicken Malai Tikka</h3><p>Cream and cheese marinade &mdash; soft, mild, delicately spiced.</p></div></article>
+      <article class="dish" data-cat="tikka"><img src="images/chicken-seekh-kabab.jpg" alt="Chicken Seekh Kabab" loading="lazy" /><div class="dish__body"><span class="dish__tag">Char-Grilled</span><h3>Chicken Seekh Kabab</h3><p>Spiced minced chicken, char-grilled on iron skewers.</p></div></article>
+      <article class="dish" data-cat="tikka"><img src="images/mutton-seekh-kabab.jpg" alt="Mutton Seekh Kabab" loading="lazy" /><div class="dish__body"><span class="dish__tag">Specialty</span><h3>Mutton Seekh Kabab</h3><p>Hand-minced mutton with our family masala blend.</p></div></article>
+      <article class="dish" data-cat="tikka"><img src="images/paneer-tikka.jpg" alt="Paneer Tikka" loading="lazy" /><div class="dish__body"><span class="dish__tag">Vegetarian</span><h3>Paneer Tikka</h3><p>Cubes of fresh paneer marinated and finished in the tandoor.</p></div></article>
+
+      <!-- CURRIES -->
+      <article class="dish" data-cat="curry"><img src="images/chicken-korma.jpg" alt="Chicken Korma" loading="lazy" /><div class="dish__body"><span class="dish__tag">House Special</span><h3>Chicken Korma</h3><p>Slow-cooked in a fragrant cashew-yogurt gravy.</p></div></article>
+      <article class="dish" data-cat="curry"><img src="images/chicken-curry.jpg" alt="Chicken Curry" loading="lazy" /><div class="dish__body"><span class="dish__tag">Classic</span><h3>Chicken Curry</h3><p>The Bombay home-style curry &mdash; rich, simple, deeply satisfying.</p></div></article>
+      <article class="dish" data-cat="curry"><img src="images/chicken-kali-mirch.jpg" alt="Chicken Kali Mirch" loading="lazy" /><div class="dish__body"><span class="dish__tag">Pepper</span><h3>Chicken Kali Mirch</h3><p>Black-pepper forward, with a velvety white-pepper finish.</p></div></article>
+      <article class="dish" data-cat="curry"><img src="images/karahi-paneer.jpg" alt="Karahi Paneer" loading="lazy" /><div class="dish__body"><span class="dish__tag">Vegetarian</span><h3>Karahi Paneer</h3><p>Fresh paneer, capsicum and ginger in a tomato karahi.</p></div></article>
+      <article class="dish" data-cat="curry"><img src="images/paneer-methi-malai.jpg" alt="Paneer Methi Malai" loading="lazy" /><div class="dish__body"><span class="dish__tag">Vegetarian</span><h3>Paneer Methi Malai</h3><p>Cream, fenugreek and paneer in a quietly luxurious gravy.</p></div></article>
+
+      <!-- RICE & KHICHRA -->
+      <article class="dish" data-cat="rice"><img src="images/mutton-khichra.jpg" alt="Mutton Khichra" loading="lazy" /><div class="dish__body"><span class="dish__tag">Bombay Classic</span><h3>Mutton Khichra</h3><p>Slow-cooked Mughlai khichra with mutton, lentils and ghee.</p></div></article>
+      <article class="dish" data-cat="rice"><img src="images/dalcha-chawal.jpg" alt="Dalcha Chawal" loading="lazy" /><div class="dish__body"><span class="dish__tag">Heritage</span><h3>Dalcha Chawal</h3><p>Rice with rich mutton-and-lentil dalcha, an old Bombay specialty.</p></div></article>
+      <article class="dish" data-cat="rice"><img src="images/chicken-fried-rice.jpg" alt="Chicken Fried Rice" loading="lazy" /><div class="dish__body"><span class="dish__tag">Indo-Chinese</span><h3>Chicken Fried Rice</h3><p>Wok-tossed long-grain rice with chicken and aromatics.</p></div></article>
+
+      <!-- PAV & SNACKS -->
+      <article class="dish" data-cat="pav"><img src="images/keema-pav.jpg" alt="Keema Pav" loading="lazy" /><div class="dish__body"><span class="dish__tag">Bombay Street</span><h3>Keema Pav</h3><p>Spiced minced mutton with buttery, toasted pav.</p></div></article>
+      <article class="dish" data-cat="pav"><img src="images/double-kabab-pav.jpg" alt="Double Kabab Pav" loading="lazy" /><div class="dish__body"><span class="dish__tag">House Special</span><h3>Double Kabab Pav</h3><p>Two seekh kababs, fresh pav, mint chutney &mdash; Bombay on a plate.</p></div></article>
+      <article class="dish" data-cat="pav"><img src="images/jeera-butter.jpg" alt="Jeera Butter Pav" loading="lazy" /><div class="dish__body"><span class="dish__tag">Tea-Time</span><h3>Jeera Butter</h3><p>Cumin-laced butter on warm, toasted bread.</p></div></article>
+
+      <!-- TAWA SPECIALS -->
+      <article class="dish" data-cat="tawa"><img src="images/bheja-fry.jpg" alt="Bheja Fry Special" loading="lazy" /><div class="dish__body"><span class="dish__tag">Speciality</span><h3>Bheja Fry Special</h3><p>The Bombay Mughlai classic, rendered the family way.</p></div></article>
+      <article class="dish" data-cat="tawa"><img src="images/tawa-kaleji.jpg" alt="Tawa Kaleji Special" loading="lazy" /><div class="dish__body"><span class="dish__tag">Speciality</span><h3>Tawa Kaleji Special</h3><p>Spiced liver, finished sizzling on the iron tawa.</p></div></article>
+
     </div>
 
-    <div class="panel" data-panel="bakery">
-      <div class="panel__group">
-        <h4>Cakes</h4>
-        <ul><li>Walnut Cake</li><li>Plum Cake</li><li>Madeira Cake</li><li>Almond Cake</li></ul>
-      </div>
-      <div class="panel__group">
-        <h4>Biscuits</h4>
-        <ul><li>Cherry Biscuit</li><li>Butter Biscuit</li><li>Coconut Biscuit</li><li>Khari Biscuit</li></ul>
-      </div>
-      <div class="panel__group">
-        <h4>Nankhatai</h4>
-        <ul><li>Classic Nankhatai</li><li>Pista Nankhatai</li><li>Elaichi Nankhatai</li></ul>
-      </div>
-      <div class="panel__group">
-        <h4>Rusks &amp; Toast</h4>
-        <ul><li>Suji Toast</li><li>Elaichi Rusk</li><li>Cake Rusk</li></ul>
-      </div>
-    </div>
-
-    <div class="panel" data-panel="seasonal">
-      <div class="panel__group">
-        <h4>Ramzan Specials</h4>
-        <ul><li>Mawa Malpua</li><li>Mawa Jalebi</li><li>Phirni</li><li>Aflatoon</li></ul>
-      </div>
-      <div class="panel__group">
-        <h4>Eid Hampers</h4>
-        <ul><li>Royal Mithai Hamper</li><li>Heritage Box</li><li>Family Pack</li></ul>
-      </div>
-      <div class="panel__group">
-        <h4>Wedding &amp; Corporate</h4>
-        <ul><li>Bespoke Mithai Trays</li><li>Branded Boxes</li><li>Bulk Orders</li></ul>
-      </div>
-    </div>
-
-    <p class="catalogue__note">For pricing, custom hampers and bulk orders, please call <a href="tel:+918655666200">+91 86556 66200</a>.</p>
+    <p class="menu__note">Looking for catering, live counters or bulk hampers? <a href="https://wa.me/971557133786" target="_blank" rel="noopener">WhatsApp us</a> or call <a href="tel:+971557133786">+971 55 713 3786</a>.</p>
   </div>
 </section>
 
-<!-- Press / testimonials -->
-<section class="press section section--dark">
+<!-- =========================================================
+     WHY CHOOSE US
+     ========================================================= -->
+<section class="why section section--cream">
   <div class="container">
-    <span class="eyebrow eyebrow--light">In Their Words</span>
-    <h2 class="section__title section__title--light">A taste that travels the world</h2>
-    <div class="press__grid">
-      <blockquote>
-        <p>&ldquo;The best way to conclude your food crawl down Mohammed Ali Road. Their Aflatoon is the stuff of Bombay legend.&rdquo;</p>
-        <cite>&mdash; LBB Mumbai</cite>
-      </blockquote>
-      <blockquote>
-        <p>&ldquo;A 4.3-star institution with nearly six thousand voices saying the same thing &mdash; this is where you go for real mithai.&rdquo;</p>
-        <cite>&mdash; Justdial</cite>
-      </blockquote>
-      <blockquote>
-        <p>&ldquo;Soft, glistening Gulab Jamun and a Firni that quietly steals the show.&rdquo;</p>
-        <cite>&mdash; Tripadvisor Review</cite>
-      </blockquote>
+    <div class="section__head section__head--center">
+      <span class="eyebrow">Why Choose Us</span>
+      <h2 class="section__title">A brand built on six unshakable foundations.</h2>
+    </div>
+    <div class="why__grid">
+      <div class="why__item"><span class="why__num">01</span><h4>100+ Years of Legacy</h4><p>A century of trust, three generations, one unbroken standard of quality.</p></div>
+      <div class="why__item"><span class="why__num">02</span><h4>Authentic Taste</h4><p>The same family recipes, the same hands-on craft, the same fresh ingredients.</p></div>
+      <div class="why__item"><span class="why__num">03</span><h4>Strong Brand Trust</h4><p>A name passed down across generations of customers across India and the GCC.</p></div>
+      <div class="why__item"><span class="why__num">04</span><h4>Multi-Country Expansion</h4><p>UAE thriving, Saudi Arabia next, the world after &mdash; with structured execution.</p></div>
+      <div class="why__item"><span class="why__num">05</span><h4>Scalable Business Model</h4><p>Proven unit economics, tested operations and a brand customers actively seek out.</p></div>
+      <div class="why__item"><span class="why__num">06</span><h4>Tech-Enabled Growth</h4><p>AI-driven engagement, digital ordering and data-led expansion planning.</p></div>
     </div>
   </div>
 </section>
 
-<!-- Locations -->
+<!-- =========================================================
+     LEADERSHIP
+     ========================================================= -->
+<section class="lead section section--dark">
+  <div class="container">
+    <div class="section__head section__head--center">
+      <span class="eyebrow eyebrow--light">Leadership</span>
+      <h2 class="section__title section__title--light">The family behind the legacy</h2>
+      <p class="section__lede section__lede--light">Two regions, one family, one century-old standard of excellence.</p>
+    </div>
+
+    <div class="lead__grid">
+      <article class="lead__card">
+        <span class="lead__region">GCC Operations</span>
+        <h3>Farheen Inamdar</h3>
+        <p class="lead__role">A proud member of the Mithaiwala family, leading GCC operations alongside her husband Islam Inamdar and a dedicated team. Together, over the past three years, they have successfully expanded and managed operations across the UAE &mdash; building a strong foundation for regional growth.</p>
+        <ul class="lead__points">
+          <li>UAE expansion &amp; operations</li>
+          <li>Brand development across the GCC</li>
+          <li>Saudi Arabia rollout, in progress</li>
+        </ul>
+      </article>
+
+      <article class="lead__card">
+        <span class="lead__region">India Operations</span>
+        <h3>Zubair Mithaiwala</h3>
+        <p class="lead__role">Custodian of the brand at home &mdash; ensuring the original Mumbai outlet continues to set the standard for everything that carries the Suleman Usman Mithaiwala name. The legacy stays strong while the brand continues to grow in the Indian market.</p>
+        <ul class="lead__points">
+          <li>India operations &amp; quality</li>
+          <li>Heritage outlet stewardship</li>
+          <li>Domestic market growth</li>
+        </ul>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- =========================================================
+     TECHNOLOGY
+     ========================================================= -->
+<section class="tech section">
+  <div class="container tech__grid">
+    <div class="tech__copy">
+      <span class="eyebrow">Tradition meets Technology</span>
+      <h2 class="section__title">A century-old craft, powered by modern systems.</h2>
+      <p>
+        While our foundation is traditional, our growth is powered by modern technology and innovation.
+        <strong>Mr. Islam Inamdar</strong> &mdash; an IT professional and founder of <em>Internext</em> &mdash; has played a key role in making the brand tech-savvy and future-ready.
+      </p>
+      <p>
+        This blend of tradition and technology is what is driving our rapid growth and scalability across the GCC.
+      </p>
+    </div>
+    <div class="tech__pillars">
+      <div class="tech__pill"><span>AI</span><div><h4>AI-Driven Engagement</h4><p>Smarter customer journeys, automated reorders, multilingual support.</p></div></div>
+      <div class="tech__pill"><span>Web</span><div><h4>Digital Ordering &amp; Marketing</h4><p>Owned ordering channels, paid &amp; organic acquisition, retention loops.</p></div></div>
+      <div class="tech__pill"><span>Ops</span><div><h4>Operational Automation</h4><p>Inventory, kitchen flow and dispatch &mdash; instrumented end-to-end.</p></div></div>
+      <div class="tech__pill"><span>Data</span><div><h4>Data-Led Expansion</h4><p>Site selection, demand modelling and unit-economics-first decisions.</p></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- =========================================================
+     LOCATIONS
+     ========================================================= -->
 <section class="locations section section--cream" id="locations">
   <div class="container">
     <div class="section__head section__head--center">
@@ -295,91 +415,235 @@
     </div>
 
     <div class="locations__grid">
-      <article class="location">
-        <span class="location__pin">Flagship</span>
-        <h3>Mumbai &mdash; Main Shop</h3>
-        <p>167, Ibrahim Merchant Road,<br />Below Minara Masjid,<br />Mumbai 400003, India</p>
-        <p class="location__hours">Open daily &middot; 9:00 AM &mdash; 1:00 AM</p>
-        <div class="location__cta">
-          <a class="btn btn--small" href="tel:+918655666200">Call</a>
+      <article class="loc">
+        <span class="loc__pin loc__pin--live">Live</span>
+        <h3>Bur Dubai &mdash; Restaurant &amp; Sweets</h3>
+        <p>Meena Bazaar, Al Fahidi,<br />Bur Dubai, Dubai &mdash; UAE</p>
+        <p class="loc__hours">Open daily &middot; Walk-in &middot; Online delivery</p>
+        <div class="loc__cta">
+          <a class="btn btn--small btn--primary" href="https://wa.me/971557133786" target="_blank" rel="noopener">WhatsApp</a>
+          <a class="btn btn--small btn--outline" href="https://maps.google.com/?q=AG+Suleman+Usman+Mithaiwala+Meena+Bazaar+Bur+Dubai" target="_blank" rel="noopener">Directions</a>
+        </div>
+      </article>
+
+      <article class="loc">
+        <span class="loc__pin loc__pin--live">Live</span>
+        <h3>Sharjah &mdash; Sweets Outlet</h3>
+        <p>Muwaileh Commercial,<br />Industrial Area, Sharjah &mdash; UAE</p>
+        <p class="loc__hours">Open daily &middot; Walk-in &middot; Delivery</p>
+        <div class="loc__cta">
+          <a class="btn btn--small btn--primary" href="https://wa.me/971557133786" target="_blank" rel="noopener">WhatsApp</a>
+          <a class="btn btn--small btn--outline" href="https://maps.google.com/?q=AG+Suleman+Usman+Mithaiwala+Muwaileh+Sharjah" target="_blank" rel="noopener">Directions</a>
+        </div>
+      </article>
+
+      <article class="loc">
+        <span class="loc__pin loc__pin--live">Live</span>
+        <h3>Business Bay &mdash; Dubai</h3>
+        <p>Business Bay,<br />Dubai &mdash; UAE</p>
+        <p class="loc__hours">High-volume online orders &middot; Catering hub</p>
+        <div class="loc__cta">
+          <a class="btn btn--small btn--primary" href="https://wa.me/971557133786" target="_blank" rel="noopener">WhatsApp</a>
+          <a class="btn btn--small btn--outline" href="https://maps.google.com/?q=AG+Suleman+Usman+Mithaiwala+Business+Bay+Dubai" target="_blank" rel="noopener">Directions</a>
+        </div>
+      </article>
+
+      <article class="loc loc--soon">
+        <span class="loc__pin loc__pin--soon">Coming Soon</span>
+        <h3>Riyadh &mdash; Saudi Arabia</h3>
+        <p>Flagship outlet planned<br />Riyadh &mdash; KSA</p>
+        <p class="loc__hours">Investor &amp; partnership opportunities open</p>
+        <div class="loc__cta">
+          <a class="btn btn--small btn--accent" href="#partner">Partner With Us</a>
+        </div>
+      </article>
+
+      <article class="loc loc--soon">
+        <span class="loc__pin loc__pin--soon">Coming Soon</span>
+        <h3>Madinah &mdash; Saudi Arabia</h3>
+        <p>Pilgrim-season specialty outlet<br />Madinah &mdash; KSA</p>
+        <p class="loc__hours">Investor &amp; partnership opportunities open</p>
+        <div class="loc__cta">
+          <a class="btn btn--small btn--accent" href="#partner">Partner With Us</a>
+        </div>
+      </article>
+
+      <article class="loc">
+        <span class="loc__pin loc__pin--heritage">Since 1926</span>
+        <h3>Mumbai &mdash; The Heritage Home</h3>
+        <p>167, Ibrahim Merchant Road,<br />Below Minara Masjid, Mumbai 400003 &mdash; India</p>
+        <p class="loc__hours">The original outlet, run by the family since day one</p>
+        <div class="loc__cta">
           <a class="btn btn--small btn--outline" href="https://maps.google.com/?q=Suleman+Usman+Mithaiwala+Minara+Masjid+Mumbai" target="_blank" rel="noopener">Directions</a>
-        </div>
-      </article>
-
-      <article class="location">
-        <span class="location__pin">Bakery</span>
-        <h3>Mumbai &mdash; Bakery Outlet</h3>
-        <p>33, Mohamedali Road,<br />Mumbai 400003, India</p>
-        <p class="location__hours">Open daily &middot; 8:00 AM &mdash; 11:00 PM</p>
-        <div class="location__cta">
-          <a class="btn btn--small" href="tel:+918655666201">Call</a>
-          <a class="btn btn--small btn--outline" href="https://maps.google.com/?q=33+Mohamedali+Road+Mumbai" target="_blank" rel="noopener">Directions</a>
-        </div>
-      </article>
-
-      <article class="location">
-        <span class="location__pin location__pin--gold">International</span>
-        <h3>Dubai, UAE</h3>
-        <p>A G Suleman Usman Mithaiwala<br />Bringing the legacy to the Gulf.</p>
-        <p class="location__hours">Visit our Dubai outlet</p>
-        <div class="location__cta">
-          <a class="btn btn--small btn--outline" href="https://agsulemanusmanmithaiwala.ae/" target="_blank" rel="noopener">Dubai Site</a>
         </div>
       </article>
     </div>
   </div>
 </section>
 
-<!-- Contact -->
-<section class="contact section" id="contact">
-  <div class="container contact__grid">
-    <div>
-      <span class="eyebrow">Get in Touch</span>
-      <h2 class="section__title">Order, enquire, or just say salaam</h2>
-      <p>Whether it is a single box for a tea-time visitor or hampers for an entire wedding, we would love to hear from you. Call us, write to us, or stop by the shop &mdash; we save the freshest pieces for guests who come in person.</p>
-
-      <ul class="contact__list">
-        <li><strong>Phone</strong><a href="tel:+918655666200">+91 86556 66200 / 01</a></li>
-        <li><strong>Email</strong><a href="mailto:sulemanusmanmithaiwala167@gmail.com">sulemanusmanmithaiwala167@gmail.com</a></li>
-        <li><strong>Instagram</strong><a href="https://www.instagram.com/sulemanusmanmithaiwala/" target="_blank" rel="noopener">@sulemanusmanmithaiwala</a></li>
-        <li><strong>Facebook</strong><a href="https://www.facebook.com/sulemanusmanmithai/" target="_blank" rel="noopener">/sulemanusmanmithai</a></li>
+<!-- =========================================================
+     VISION & MISSION
+     ========================================================= -->
+<section class="vision section">
+  <div class="container vision__grid">
+    <div class="vision__card vision__card--vision">
+      <span class="eyebrow">Our Vision</span>
+      <h3>A globally recognized brand &mdash; bringing authentic Indian sweets to every major city in the world.</h3>
+    </div>
+    <div class="vision__card">
+      <span class="eyebrow">Our Mission</span>
+      <ul class="vision__list">
+        <li>Preserve traditional recipes</li>
+        <li>Maintain premium quality, always</li>
+        <li>Expand internationally, sensibly</li>
+        <li>Use technology for sustainable growth</li>
+        <li>Create real value for customers and investors</li>
       </ul>
     </div>
+  </div>
+</section>
 
-    <form class="contact__form" onsubmit="event.preventDefault(); this.querySelector('.contact__sent').hidden = false; this.reset();">
-      <h3>Send us a message</h3>
-      <label>Name<input type="text" required placeholder="Your full name" /></label>
-      <label>Phone<input type="tel" required placeholder="+91 ..." /></label>
-      <label>What can we prepare for you?<textarea rows="4" placeholder="Tell us about the occasion, the date, and what you have in mind."></textarea></label>
-      <button type="submit" class="btn btn--primary">Send Enquiry</button>
-      <p class="contact__sent" hidden>Thank you &mdash; we will get back to you shortly.</p>
+<!-- =========================================================
+     INVESTOR / PARTNERSHIP
+     ========================================================= -->
+<section class="partner section section--dark" id="partner">
+  <div class="container partner__grid">
+    <div class="partner__copy">
+      <span class="eyebrow eyebrow--light">Investment &amp; Partnership</span>
+      <h2 class="section__title section__title--light">Grow with a 100-year-old brand.</h2>
+      <p>We are actively looking for serious investors and partners to join our expansion journey across the GCC.</p>
+      <ul class="partner__list">
+        <li><strong>Proven business model</strong> &mdash; tested across decades</li>
+        <li><strong>Strong brand recognition</strong> &mdash; an instantly trusted name</li>
+        <li><strong>High-demand products</strong> &mdash; daily-purchase categories</li>
+        <li><strong>Expansion support</strong> &mdash; structured rollout playbook</li>
+        <li><strong>Operational expertise</strong> &mdash; the family running the show</li>
+      </ul>
+      <p class="partner__pitch">Whether you want to invest, partner, or open a branch &mdash; we offer a structured and profitable opportunity. <strong>Be part of a legacy brand going global.</strong></p>
+    </div>
+
+    <form class="partner__form" id="partnerForm" onsubmit="return false;">
+      <h3>Become a Partner</h3>
+      <p class="partner__form-sub">Tell us a little about yourself and we will reach out within 48 hours.</p>
+
+      <label>Full Name<input type="text" name="name" required placeholder="Your full name" /></label>
+      <label>Phone (with country code)<input type="tel" name="phone" required placeholder="+971 ..." /></label>
+      <label>Email (optional)<input type="email" name="email" placeholder="you@example.com" /></label>
+      <label>City &amp; Country of interest<input type="text" name="city" placeholder="e.g. Riyadh, KSA" /></label>
+      <label>Investment Budget
+        <select name="budget" required>
+          <option value="">Select a range</option>
+          <option>Under USD 100k</option>
+          <option>USD 100k &mdash; 250k</option>
+          <option>USD 250k &mdash; 500k</option>
+          <option>USD 500k &mdash; 1M</option>
+          <option>USD 1M+</option>
+          <option>Open to discuss</option>
+        </select>
+      </label>
+      <label>How would you like to engage?
+        <select name="intent">
+          <option>Open a branch in my city</option>
+          <option>Invest as a financial partner</option>
+          <option>Distribute / supply partnership</option>
+          <option>Catering &amp; events tie-up</option>
+          <option>Other &mdash; let's discuss</option>
+        </select>
+      </label>
+      <label>Anything else we should know?<textarea name="note" rows="3" placeholder="Optional"></textarea></label>
+
+      <button type="submit" class="btn btn--accent">Submit Enquiry</button>
+      <p class="partner__sent" hidden>Thank you &mdash; we will be in touch shortly. For urgent matters, please WhatsApp us on +971 55 713 3786.</p>
     </form>
   </div>
 </section>
 
-<!-- Footer -->
+<!-- =========================================================
+     CONTACT
+     ========================================================= -->
+<section class="contact section" id="contact">
+  <div class="container">
+    <div class="section__head section__head--center">
+      <span class="eyebrow">Get in Touch</span>
+      <h2 class="section__title">Order, enquire, or just say salaam.</h2>
+      <p class="section__lede">Whether it is a single hamper for a tea-time visitor or catering for an entire wedding, we would love to hear from you.</p>
+    </div>
+
+    <div class="contact__row">
+      <a class="contact__card" href="https://wa.me/971557133786" target="_blank" rel="noopener">
+        <span class="contact__label">WhatsApp</span>
+        <strong>+971 55 713 3786</strong>
+        <span class="contact__hint">Tap to message us &rarr;</span>
+      </a>
+      <a class="contact__card" href="tel:+971557133786">
+        <span class="contact__label">Call</span>
+        <strong>+971 55 713 3786</strong>
+        <span class="contact__hint">UAE direct line</span>
+      </a>
+      <a class="contact__card" href="mailto:sulemanusmanmithaiwala167@gmail.com">
+        <span class="contact__label">Email</span>
+        <strong>sulemanusmanmithaiwala167@gmail.com</strong>
+        <span class="contact__hint">Partnerships &amp; orders</span>
+      </a>
+      <a class="contact__card" href="https://www.instagram.com/sulemanusmanmithaiwala/" target="_blank" rel="noopener">
+        <span class="contact__label">Instagram</span>
+        <strong>@sulemanusmanmithaiwala</strong>
+        <span class="contact__hint">Daily product reels</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- =========================================================
+     FINAL CTA
+     ========================================================= -->
+<section class="finalcta">
+  <div class="container finalcta__inner">
+    <h2>Experience the Taste of Tradition. <span>Be Part of the Future.</span></h2>
+    <div class="finalcta__actions">
+      <a href="#menu" class="btn btn--primary">View the Menu</a>
+      <a href="#partner" class="btn btn--accent">Become a Partner</a>
+    </div>
+  </div>
+</section>
+
+<!-- =========================================================
+     FOOTER
+     ========================================================= -->
 <footer class="footer">
   <div class="container footer__inner">
     <div class="footer__brand">
       <span class="brand__mark brand__mark--light">SUM</span>
       <div>
-        <strong>Suleman Usman Mithaiwala</strong>
-        <span>Authentic Indian Mithai &middot; Since 1936</span>
+        <strong>AG Suleman Usman Mithaiwala</strong>
+        <span>Restaurant &amp; Sweets &middot; Since 1926</span>
       </div>
     </div>
     <nav class="footer__nav">
-      <a href="#heritage">Heritage</a>
-      <a href="#signature">Signature</a>
-      <a href="#catalogue">Catalogue</a>
+      <a href="#legacy">Legacy</a>
+      <a href="#presence">Global</a>
+      <a href="#menu">Menu</a>
       <a href="#locations">Locations</a>
+      <a href="#partner">Partner</a>
       <a href="#contact">Contact</a>
     </nav>
     <div class="footer__legal">
-      <p>&copy; <span id="year"></span> Suleman Usman Mithaiwala. All rights reserved.</p>
-      <p class="footer__credit">Crafted with care for India's most beloved sweet shop.</p>
+      <p>&copy; <span id="year"></span> AG Suleman Usman Mithaiwala. All rights reserved.</p>
+      <p class="footer__credit">A century of sweetness &middot; Bombay &middot; Dubai &middot; Sharjah &middot; Riyadh &middot; Madinah</p>
     </div>
   </div>
 </footer>
+
+<!-- =========================================================
+     FLOATING WHATSAPP BUTTON
+     ========================================================= -->
+<a class="wa-float" href="https://wa.me/971557133786" target="_blank" rel="noopener" aria-label="Chat with us on WhatsApp">
+  <svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true">
+    <path fill="#fff" d="M19.11 17.205c-.372 0-1.088 1.39-1.518 1.39a.63.63 0 0 1-.315-.1c-.802-.402-1.504-.817-2.163-1.447-.545-.516-1.146-1.29-1.46-1.963a.426.426 0 0 1-.073-.215c0-.33.99-.945.99-1.49 0-.143-.73-2.09-.832-2.335-.143-.372-.214-.487-.6-.487-.187 0-.36-.043-.53-.043-.302 0-.53.115-.746.315-.688.645-1.032 1.318-1.06 2.264v.114c-.015.99.472 1.977 1.017 2.78 1.23 1.82 2.506 3.41 4.554 4.34.616.287 2.035.888 2.722.888.6 0 1.247-.43 1.633-.91.245-.31.36-.665.36-1.06 0-.155-.04-.295-.06-.435-.155-.41-1.418-.875-1.96-1.207zM16.026 25.5c-1.69 0-3.34-.46-4.78-1.32l-.34-.205-3.547 1.018 1.046-3.46-.22-.355A9.4 9.4 0 0 1 6.6 16.025C6.604 10.819 10.82 6.6 16.025 6.6a9.46 9.46 0 0 1 9.42 9.43 9.4 9.4 0 0 1-9.42 9.42zm0-20.78A11.34 11.34 0 0 0 4.7 16.04a11.4 11.4 0 0 0 1.62 5.85L4.5 27.5l5.74-1.5a11.4 11.4 0 0 0 5.79 1.5h.01a11.34 11.34 0 0 0 11.32-11.34A11.34 11.34 0 0 0 16.026 4.72z"/>
+  </svg>
+  <span class="wa-float__pulse" aria-hidden="true"></span>
+  <span class="wa-float__label">Chat on WhatsApp</span>
+</a>
 
 <script src="script.js"></script>
 </body>

@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-  // Sticky nav shadow on scroll
+  // Sticky nav shadow
   const nav = document.getElementById('nav');
   const onScroll = () => {
     if (window.scrollY > 12) nav.classList.add('is-scrolled');
@@ -10,7 +10,7 @@
   window.addEventListener('scroll', onScroll, { passive: true });
   onScroll();
 
-  // Mobile menu toggle
+  // Mobile menu
   const toggle = document.querySelector('.nav__toggle');
   const links = document.getElementById('navLinks');
   toggle.addEventListener('click', () => {
@@ -24,20 +24,48 @@
     })
   );
 
-  // Catalogue tabs
-  const tabs = document.querySelectorAll('.tab');
-  const panels = document.querySelectorAll('.panel');
-  tabs.forEach(tab => {
-    tab.addEventListener('click', () => {
-      const target = tab.dataset.tab;
-      tabs.forEach(t => t.classList.toggle('is-active', t === tab));
-      panels.forEach(p => p.classList.toggle('is-active', p.dataset.panel === target));
+  // Menu filter chips
+  const chips = document.querySelectorAll('.chip');
+  const dishes = document.querySelectorAll('.dish');
+  chips.forEach(chip => {
+    chip.addEventListener('click', () => {
+      const filter = chip.dataset.filter;
+      chips.forEach(c => c.classList.toggle('is-active', c === chip));
+      dishes.forEach(d => {
+        const show = filter === 'all' || d.dataset.cat === filter;
+        d.classList.toggle('is-hidden', !show);
+      });
     });
   });
 
+  // Partner form — open WhatsApp with composed message
+  const partnerForm = document.getElementById('partnerForm');
+  if (partnerForm) {
+    partnerForm.addEventListener('submit', e => {
+      e.preventDefault();
+      const data = new FormData(partnerForm);
+      const lines = [
+        '*New Partnership Enquiry*',
+        '',
+        `Name: ${data.get('name') || '-'}`,
+        `Phone: ${data.get('phone') || '-'}`,
+        `Email: ${data.get('email') || '-'}`,
+        `City: ${data.get('city') || '-'}`,
+        `Budget: ${data.get('budget') || '-'}`,
+        `Intent: ${data.get('intent') || '-'}`,
+        `Note: ${data.get('note') || '-'}`,
+      ];
+      const msg = encodeURIComponent(lines.join('\n'));
+      window.open(`https://wa.me/971557133786?text=${msg}`, '_blank', 'noopener');
+      const sent = partnerForm.querySelector('.partner__sent');
+      if (sent) sent.hidden = false;
+      partnerForm.reset();
+    });
+  }
+
   // Reveal on scroll
   const revealEls = document.querySelectorAll(
-    '.section__head, .heritage__media, .heritage__copy, .card, .panel__group, .location, .press__grid blockquote, .contact__form, .contact__list'
+    '.section__head, .legacy__media, .legacy__copy, .timeline__item, .presence__card, .dish, .why__item, .lead__card, .tech__copy, .tech__pill, .loc, .vision__card, .partner__copy, .partner__form, .contact__card'
   );
   revealEls.forEach(el => el.classList.add('reveal'));
 
@@ -51,7 +79,7 @@
           }
         });
       },
-      { threshold: 0.12, rootMargin: '0px 0px -40px 0px' }
+      { threshold: 0.1, rootMargin: '0px 0px -40px 0px' }
     );
     revealEls.forEach(el => io.observe(el));
   } else {
