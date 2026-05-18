@@ -1,0 +1,85 @@
+# =========================================================
+# Abdul Gafoor Suleman Usman Mithaiwala — Apache rules
+# =========================================================
+
+# Default index
+DirectoryIndex index.html
+
+# Custom 404
+ErrorDocument 404 /404.html
+
+# -----------------------------
+# Force HTTPS + www
+# -----------------------------
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # HTTPS
+  RewriteCond %{HTTPS} off
+  RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+  # www
+  RewriteCond %{HTTP_HOST} ^agsulemanusmanmithaiwala\.ae$ [NC]
+  RewriteRule ^(.*)$ https://www.agsulemanusmanmithaiwala.ae/$1 [L,R=301]
+</IfModule>
+
+# -----------------------------
+# Compression
+# -----------------------------
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json image/svg+xml application/xml application/rss+xml
+</IfModule>
+
+# -----------------------------
+# Browser caching
+# -----------------------------
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresDefault                          "access plus 1 month"
+  ExpiresByType text/html                 "access plus 0 seconds"
+  ExpiresByType text/css                  "access plus 1 month"
+  ExpiresByType application/javascript    "access plus 1 month"
+  ExpiresByType image/jpeg                "access plus 6 months"
+  ExpiresByType image/png                 "access plus 6 months"
+  ExpiresByType image/svg+xml             "access plus 6 months"
+  ExpiresByType image/x-icon              "access plus 6 months"
+  ExpiresByType font/woff                 "access plus 1 year"
+  ExpiresByType font/woff2                "access plus 1 year"
+  ExpiresByType application/xml           "access plus 1 day"
+</IfModule>
+
+<IfModule mod_headers.c>
+  # Long cache for static assets
+  <FilesMatch "\.(jpg|jpeg|png|gif|webp|svg|ico|woff|woff2|css|js)$">
+    Header set Cache-Control "public, max-age=2592000, immutable"
+  </FilesMatch>
+  # Always revalidate HTML
+  <FilesMatch "\.html$">
+    Header set Cache-Control "no-cache, must-revalidate"
+  </FilesMatch>
+  # Basic hardening
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set X-Frame-Options "SAMEORIGIN"
+</IfModule>
+
+# -----------------------------
+# Block hidden / sensitive files
+# -----------------------------
+<FilesMatch "^\.(?!well-known)">
+  Require all denied
+</FilesMatch>
+<FilesMatch "\.(md|log|sh|sql|env)$">
+  Require all denied
+</FilesMatch>
+
+# Allow ads.txt + robots.txt + sitemap.xml
+<Files "ads.txt">
+  Require all granted
+</Files>
+<Files "robots.txt">
+  Require all granted
+</Files>
+<Files "sitemap.xml">
+  Require all granted
+</Files>

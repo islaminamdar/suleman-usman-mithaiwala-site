@@ -31,8 +31,8 @@
 <meta property="og:image" content="https://www.agsulemanusmanmithaiwala.ae/images/storefront.jpg" />
 <meta property="og:image:secure_url" content="https://www.agsulemanusmanmithaiwala.ae/images/storefront.jpg" />
 <meta property="og:image:type" content="image/jpeg" />
-<meta property="og:image:width" content="1600" />
-<meta property="og:image:height" content="900" />
+<meta property="og:image:width" content="1400" />
+<meta property="og:image:height" content="787" />
 <meta property="og:image:alt" content="Abdul Gafoor Suleman Usman Mithaiwala &mdash; Bur Dubai flagship at night" />
 <meta property="og:locale" content="en_AE" />
 
@@ -44,6 +44,9 @@
 
 <link rel="icon" type="image/png" href="images/favicon.png" />
 <link rel="apple-touch-icon" href="images/favicon.png" />
+
+<!-- LCP optimization: preload hero photo (modern browsers grab WebP first) -->
+<link rel="preload" as="image" href="images/storefront.webp" type="image/webp" fetchpriority="high" />
 
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -150,7 +153,7 @@
 <header class="nav" id="nav">
   <div class="container nav__inner">
     <a href="#top" class="brand" aria-label="Abdul Gafoor Suleman Usman Mithaiwala &mdash; home">
-      <span class="brand__logo"><img src="images/logo.png" alt="Abdul Gafoor Suleman Usman Mithaiwala emblem" width="64" height="64" /></span>
+      <span class="brand__logo"><picture><source srcset="images/logo.webp" type="image/webp" /><img src="images/logo.png" alt="Abdul Gafoor Suleman Usman Mithaiwala emblem" width="254" height="256" decoding="async" fetchpriority="high" /></picture></span>
       <span class="brand__text">
         <span class="brand__line1">Abdul Gafoor Suleman Usman</span>
         <span class="brand__line2">MITHAIWALA &middot; SINCE 1926</span>
@@ -187,7 +190,7 @@
 <!-- HERO -->
 <section class="hero">
   <div class="hero__bg" aria-hidden="true">
-    <img src="images/storefront.jpg" alt="" class="hero__photo" />
+    <picture><source srcset="images/storefront.webp" type="image/webp" /><img src="images/storefront.jpg" alt="" class="hero__photo" width="1400" height="787" decoding="async" fetchpriority="high" /></picture>
     <div class="hero__veil"></div>
   </div>
   <div class="container hero__inner">
@@ -259,27 +262,27 @@
       <p class="section__lede">A handful of dishes have travelled with the brand for nearly a century. These are the must-try.</p>
     </header>
     <div class="cards">
-      <article class="card"><div class="card__img"><img src="images/special-pista-aflatoon.jpg" alt="Pista Aflatoon" loading="lazy" /></div>
+      <article class="card"><div class="card__img"><picture><source srcset="images/special-pista-aflatoon.webp" type="image/webp" /><img src="images/special-pista-aflatoon.jpg" alt="Pista Aflatoon" width="1200" height="800" loading="lazy" decoding="async" /></picture></div>
         <div class="card__body"><h3>Pista Aflatoon</h3><p>The legendary house signature &mdash; slow-cooked semolina, mawa, ghee, saffron and pistachio. Cut warm. Served with pride.</p>
         <span class="card__tag">House icon &middot; since 1926</span></div>
       </article>
-      <article class="card"><div class="card__img"><img src="images/mawa-jalebi.jpg" alt="Mawa Jalebi" loading="lazy" /></div>
+      <article class="card"><div class="card__img"><picture><source srcset="images/mawa-jalebi.webp" type="image/webp" /><img src="images/mawa-jalebi.jpg" alt="Mawa Jalebi" width="1200" height="800" loading="lazy" decoding="async" /></picture></div>
         <div class="card__body"><h3>Mawa Jalebi</h3><p>Crisp on the outside, dense and milky inside &mdash; soaked in fragrant cardamom-saffron syrup. Best within the hour.</p>
         <span class="card__tag">Made fresh through the day</span></div>
       </article>
-      <article class="card"><div class="card__img"><img src="images/malpua-rabdi.jpg" alt="Malpua &amp; Rabdi" loading="lazy" /></div>
+      <article class="card"><div class="card__img"><picture><source srcset="images/malpua-rabdi.webp" type="image/webp" /><img src="images/malpua-rabdi.jpg" alt="Malpua &amp; Rabdi" width="1200" height="800" loading="lazy" decoding="async" /></picture></div>
         <div class="card__body"><h3>Malpua &amp; Rabdi</h3><p>Pillowy fried discs in chilled, reduced rabdi &mdash; a Bombay-style ritual every Eid, Diwali and feast night.</p>
         <span class="card__tag">House classic</span></div>
       </article>
-      <article class="card"><div class="card__img"><img src="images/dryfruit-halwa.jpg" alt="Dry Fruit Halwa" loading="lazy" /></div>
+      <article class="card"><div class="card__img"><picture><source srcset="images/dryfruit-halwa.webp" type="image/webp" /><img src="images/dryfruit-halwa.jpg" alt="Dry Fruit Halwa" width="1200" height="800" loading="lazy" decoding="async" /></picture></div>
         <div class="card__body"><h3>Dry Fruit Halwa</h3><p>Walnut, fig and almond, simmered low with pure ghee until glossy. A winter favourite, available year-round.</p>
         <span class="card__tag">Akhrot &middot; Anjeer &middot; Gajar &middot; Dudhi</span></div>
       </article>
-      <article class="card"><div class="card__img"><img src="images/mutton-seekh-kabab.jpg" alt="Mutton Seekh Kabab" loading="lazy" /></div>
+      <article class="card"><div class="card__img"><picture><source srcset="images/mutton-seekh-kabab.webp" type="image/webp" /><img src="images/mutton-seekh-kabab.jpg" alt="Mutton Seekh Kabab" width="1200" height="800" loading="lazy" decoding="async" /></picture></div>
         <div class="card__body"><h3>Seekh &amp; Tikka</h3><p>Char-grilled chicken malai tikka, mutton seekh kabab and paneer tikka &mdash; straight off the smouldering tandoor.</p>
         <span class="card__tag">Tandoor specialities</span></div>
       </article>
-      <article class="card"><div class="card__img"><img src="images/mutton-khichra.jpg" alt="Mutton Khichra" loading="lazy" /></div>
+      <article class="card"><div class="card__img"><picture><source srcset="images/mutton-khichra.webp" type="image/webp" /><img src="images/mutton-khichra.jpg" alt="Mutton Khichra" width="1200" height="800" loading="lazy" decoding="async" /></picture></div>
         <div class="card__body"><h3>Mutton Khichra</h3><p>The eight-hour Bohra-style khichra &mdash; cracked wheat, lentils and slow-cooked mutton, finished with fried onions.</p>
         <span class="card__tag">Weekend speciality</span></div>
       </article>
@@ -300,74 +303,74 @@
       <details class="menu__cat" open>
         <summary><span>Mithai &middot; Sweets</span><span class="menu__count">11 items</span></summary>
         <ul class="menu__items">
-          <li><img src="images/mawa-jalebi.jpg" alt="" loading="lazy" /><span>Mawa Jalebi</span></li>
-          <li><img src="images/malpua-rabdi.jpg" alt="" loading="lazy" /><span>Malpua with Rabdi</span></li>
-          <li><img src="images/special-pista-aflatoon.jpg" alt="" loading="lazy" /><span>Pista Aflatoon</span></li>
-          <li><img src="images/special-badam-aflatoon.jpg" alt="" loading="lazy" /><span>Badam Aflatoon</span></li>
-          <li><img src="images/dryfruit-aflatoon.jpg" alt="" loading="lazy" /><span>Dry Fruit Aflatoon</span></li>
-          <li><img src="images/kaju-aflatoon.jpg" alt="" loading="lazy" /><span>Kaju Aflatoon</span></li>
-          <li><img src="images/normal-aflatoon.jpg" alt="" loading="lazy" /><span>Aflatoon Classic</span></li>
-          <li><img src="images/mix-peda.jpg" alt="" loading="lazy" /><span>Mix Peda</span></li>
-          <li><img src="images/pink-barfi.jpg" alt="" loading="lazy" /><span>Pink Barfi</span></li>
-          <li><img src="images/mawa-khaja.jpg" alt="" loading="lazy" /><span>Mawa Khaja</span></li>
-          <li><img src="images/malai-rabdi.jpg" alt="" loading="lazy" /><span>Malai Rabdi</span></li>
+          <li><picture><source srcset="images/mawa-jalebi.webp" type="image/webp" /><img src="images/mawa-jalebi.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Mawa Jalebi</span></li>
+          <li><picture><source srcset="images/malpua-rabdi.webp" type="image/webp" /><img src="images/malpua-rabdi.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Malpua with Rabdi</span></li>
+          <li><picture><source srcset="images/special-pista-aflatoon.webp" type="image/webp" /><img src="images/special-pista-aflatoon.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Pista Aflatoon</span></li>
+          <li><picture><source srcset="images/special-badam-aflatoon.webp" type="image/webp" /><img src="images/special-badam-aflatoon.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Badam Aflatoon</span></li>
+          <li><picture><source srcset="images/dryfruit-aflatoon.webp" type="image/webp" /><img src="images/dryfruit-aflatoon.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Dry Fruit Aflatoon</span></li>
+          <li><picture><source srcset="images/kaju-aflatoon.webp" type="image/webp" /><img src="images/kaju-aflatoon.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Kaju Aflatoon</span></li>
+          <li><picture><source srcset="images/normal-aflatoon.webp" type="image/webp" /><img src="images/normal-aflatoon.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Aflatoon Classic</span></li>
+          <li><picture><source srcset="images/mix-peda.webp" type="image/webp" /><img src="images/mix-peda.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Mix Peda</span></li>
+          <li><picture><source srcset="images/pink-barfi.webp" type="image/webp" /><img src="images/pink-barfi.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Pink Barfi</span></li>
+          <li><picture><source srcset="images/mawa-khaja.webp" type="image/webp" /><img src="images/mawa-khaja.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Mawa Khaja</span></li>
+          <li><picture><source srcset="images/malai-rabdi.webp" type="image/webp" /><img src="images/malai-rabdi.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Malai Rabdi</span></li>
         </ul>
       </details>
       <details class="menu__cat">
         <summary><span>Halwa</span><span class="menu__count">5 items</span></summary>
         <ul class="menu__items">
-          <li><img src="images/dryfruit-halwa.jpg" alt="" loading="lazy" /><span>Dry Fruit Halwa</span></li>
-          <li><img src="images/akhrot-halwa.jpg" alt="" loading="lazy" /><span>Akhrot Halwa</span></li>
-          <li><img src="images/anjeer-halwa.jpg" alt="" loading="lazy" /><span>Anjeer Halwa</span></li>
-          <li><img src="images/gajar-halwa.jpg" alt="" loading="lazy" /><span>Gajar Halwa</span></li>
-          <li><img src="images/dudhi-halwa.jpg" alt="" loading="lazy" /><span>Dudhi Halwa</span></li>
+          <li><picture><source srcset="images/dryfruit-halwa.webp" type="image/webp" /><img src="images/dryfruit-halwa.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Dry Fruit Halwa</span></li>
+          <li><picture><source srcset="images/akhrot-halwa.webp" type="image/webp" /><img src="images/akhrot-halwa.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Akhrot Halwa</span></li>
+          <li><picture><source srcset="images/anjeer-halwa.webp" type="image/webp" /><img src="images/anjeer-halwa.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Anjeer Halwa</span></li>
+          <li><picture><source srcset="images/gajar-halwa.webp" type="image/webp" /><img src="images/gajar-halwa.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Gajar Halwa</span></li>
+          <li><picture><source srcset="images/dudhi-halwa.webp" type="image/webp" /><img src="images/dudhi-halwa.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Dudhi Halwa</span></li>
         </ul>
       </details>
       <details class="menu__cat">
         <summary><span>Bakery</span><span class="menu__count">4 items</span></summary>
         <ul class="menu__items">
-          <li><img src="images/nankhatai-rawa.jpg" alt="" loading="lazy" /><span>Nankhatai Rawa</span></li>
-          <li><img src="images/nankhatai-dryfruit.jpg" alt="" loading="lazy" /><span>Nankhatai Dry Fruit</span></li>
-          <li><img src="images/maska-khari.jpg" alt="" loading="lazy" /><span>Maska Khari</span></li>
-          <li><img src="images/maska-pav.jpg" alt="" loading="lazy" /><span>Maska Pav Kadak</span></li>
+          <li><picture><source srcset="images/nankhatai-rawa.webp" type="image/webp" /><img src="images/nankhatai-rawa.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Nankhatai Rawa</span></li>
+          <li><picture><source srcset="images/nankhatai-dryfruit.webp" type="image/webp" /><img src="images/nankhatai-dryfruit.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Nankhatai Dry Fruit</span></li>
+          <li><picture><source srcset="images/maska-khari.webp" type="image/webp" /><img src="images/maska-khari.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Maska Khari</span></li>
+          <li><picture><source srcset="images/maska-pav.webp" type="image/webp" /><img src="images/maska-pav.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Maska Pav Kadak</span></li>
         </ul>
       </details>
       <details class="menu__cat">
         <summary><span>Tikka &amp; Kabab</span><span class="menu__count">5 items</span></summary>
         <ul class="menu__items">
-          <li><img src="images/chicken-tikka.jpg" alt="" loading="lazy" /><span>Chicken Tikka</span></li>
-          <li><img src="images/chicken-malai-tikka.jpg" alt="" loading="lazy" /><span>Chicken Malai Tikka</span></li>
-          <li><img src="images/chicken-seekh-kabab.jpg" alt="" loading="lazy" /><span>Chicken Seekh Kabab</span></li>
-          <li><img src="images/mutton-seekh-kabab.jpg" alt="" loading="lazy" /><span>Mutton Seekh Kabab</span></li>
-          <li><img src="images/paneer-tikka.jpg" alt="" loading="lazy" /><span>Paneer Tikka</span></li>
+          <li><picture><source srcset="images/chicken-tikka.webp" type="image/webp" /><img src="images/chicken-tikka.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Chicken Tikka</span></li>
+          <li><picture><source srcset="images/chicken-malai-tikka.webp" type="image/webp" /><img src="images/chicken-malai-tikka.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Chicken Malai Tikka</span></li>
+          <li><picture><source srcset="images/chicken-seekh-kabab.webp" type="image/webp" /><img src="images/chicken-seekh-kabab.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Chicken Seekh Kabab</span></li>
+          <li><picture><source srcset="images/mutton-seekh-kabab.webp" type="image/webp" /><img src="images/mutton-seekh-kabab.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Mutton Seekh Kabab</span></li>
+          <li><picture><source srcset="images/paneer-tikka.webp" type="image/webp" /><img src="images/paneer-tikka.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Paneer Tikka</span></li>
         </ul>
       </details>
       <details class="menu__cat">
         <summary><span>Curries</span><span class="menu__count">5 items</span></summary>
         <ul class="menu__items">
-          <li><img src="images/chicken-korma.jpg" alt="" loading="lazy" /><span>Chicken Korma</span></li>
-          <li><img src="images/chicken-curry.jpg" alt="" loading="lazy" /><span>Chicken Curry</span></li>
-          <li><img src="images/chicken-kali-mirch.jpg" alt="" loading="lazy" /><span>Chicken Kali Mirch</span></li>
-          <li><img src="images/karahi-paneer.jpg" alt="" loading="lazy" /><span>Karahi Paneer</span></li>
-          <li><img src="images/paneer-methi-malai.jpg" alt="" loading="lazy" /><span>Paneer Methi Malai</span></li>
+          <li><picture><source srcset="images/chicken-korma.webp" type="image/webp" /><img src="images/chicken-korma.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Chicken Korma</span></li>
+          <li><picture><source srcset="images/chicken-curry.webp" type="image/webp" /><img src="images/chicken-curry.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Chicken Curry</span></li>
+          <li><picture><source srcset="images/chicken-kali-mirch.webp" type="image/webp" /><img src="images/chicken-kali-mirch.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Chicken Kali Mirch</span></li>
+          <li><picture><source srcset="images/karahi-paneer.webp" type="image/webp" /><img src="images/karahi-paneer.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Karahi Paneer</span></li>
+          <li><picture><source srcset="images/paneer-methi-malai.webp" type="image/webp" /><img src="images/paneer-methi-malai.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Paneer Methi Malai</span></li>
         </ul>
       </details>
       <details class="menu__cat">
         <summary><span>Rice &amp; Khichra</span><span class="menu__count">3 items</span></summary>
         <ul class="menu__items">
-          <li><img src="images/mutton-khichra.jpg" alt="" loading="lazy" /><span>Mutton Khichra</span></li>
-          <li><img src="images/dalcha-chawal.jpg" alt="" loading="lazy" /><span>Dalcha Chawal</span></li>
-          <li><img src="images/chicken-fried-rice.jpg" alt="" loading="lazy" /><span>Chicken Fried Rice</span></li>
+          <li><picture><source srcset="images/mutton-khichra.webp" type="image/webp" /><img src="images/mutton-khichra.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Mutton Khichra</span></li>
+          <li><picture><source srcset="images/dalcha-chawal.webp" type="image/webp" /><img src="images/dalcha-chawal.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Dalcha Chawal</span></li>
+          <li><picture><source srcset="images/chicken-fried-rice.webp" type="image/webp" /><img src="images/chicken-fried-rice.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Chicken Fried Rice</span></li>
         </ul>
       </details>
       <details class="menu__cat">
         <summary><span>Pav &amp; Snacks</span><span class="menu__count">5 items</span></summary>
         <ul class="menu__items">
-          <li><img src="images/keema-pav.jpg" alt="" loading="lazy" /><span>Keema Pav</span></li>
-          <li><img src="images/double-kabab-pav.jpg" alt="" loading="lazy" /><span>Double Kabab Pav</span></li>
-          <li><img src="images/jeera-butter.jpg" alt="" loading="lazy" /><span>Jeera Butter Pav</span></li>
-          <li><img src="images/bheja-fry.jpg" alt="" loading="lazy" /><span>Bheja Fry Special</span></li>
-          <li><img src="images/tawa-kaleji.jpg" alt="" loading="lazy" /><span>Tawa Kaleji Special</span></li>
+          <li><picture><source srcset="images/keema-pav.webp" type="image/webp" /><img src="images/keema-pav.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Keema Pav</span></li>
+          <li><picture><source srcset="images/double-kabab-pav.webp" type="image/webp" /><img src="images/double-kabab-pav.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Double Kabab Pav</span></li>
+          <li><picture><source srcset="images/jeera-butter.webp" type="image/webp" /><img src="images/jeera-butter.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Jeera Butter Pav</span></li>
+          <li><picture><source srcset="images/bheja-fry.webp" type="image/webp" /><img src="images/bheja-fry.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Bheja Fry Special</span></li>
+          <li><picture><source srcset="images/tawa-kaleji.webp" type="image/webp" /><img src="images/tawa-kaleji.jpg" alt="" width="1200" height="800" loading="lazy" decoding="async" /></picture><span>Tawa Kaleji Special</span></li>
         </ul>
       </details>
     </div>
@@ -393,7 +396,7 @@
       <a class="btn btn--gold" href="https://www.instagram.com/sulemanusmanmithaiwala" target="_blank" rel="noopener">Follow @sulemanusmanmithaiwala</a>
     </div>
     <div class="panipuri__crest" aria-hidden="true">
-      <img src="images/logo.png" alt="" class="panipuri__logo" />
+      <picture><source srcset="images/logo.webp" type="image/webp" /><img src="images/logo.png" alt="" class="panipuri__logo" width="254" height="256" loading="lazy" decoding="async" /></picture>
       <div class="panipuri__ring"></div>
     </div>
   </div>
@@ -518,7 +521,7 @@
 <footer class="foot" id="contact">
   <div class="container foot__grid">
     <div class="foot__brand">
-      <span class="brand__logo brand__logo--footer"><img src="images/logo.png" alt="" /></span>
+      <span class="brand__logo brand__logo--footer"><picture><source srcset="images/logo.webp" type="image/webp" /><img src="images/logo.png" alt="" width="254" height="256" loading="lazy" decoding="async" /></picture></span>
       <h3>Abdul Gafoor<br/>Suleman Usman Mithaiwala</h3>
       <p>Authentic Indian Sweets &amp; Restaurant. Since 1926.</p>
     </div>
