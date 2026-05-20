@@ -120,6 +120,9 @@ def build_html(files):
 <style>
 :root {{ --ink:#262320; --muted:#6f6857; --gold:#9a7b2e; --paper:#fbfaf6;
   --line:#e3ddcf; }}
+@page {{ size:6in 9in; margin:19mm 16mm 21mm;
+  @bottom-center {{ content:counter(page); font-size:8pt;
+    color:#9a958a; }} }}
 * {{ box-sizing:border-box; }}
 html {{ scroll-behavior:smooth; }}
 body {{ margin:0; background:var(--paper); color:var(--ink);
@@ -194,10 +197,15 @@ th {{ background:#f2eee2; }}
 
 @media (max-width:480px) {{ body {{ font-size:17.5px; }}
   .cover h1 {{ font-size:2rem; }} }}
-@media print {{ body {{ background:#fff; font-size:11pt; }}
-  .wrap {{ max-width:none; }}
+@media print {{ body {{ background:#fff; font-size:10.5pt;
+    line-height:1.42; }}
+  p {{ margin-bottom:.5rem; }}
+  article {{ padding-top:2.4rem; }}
+  article h2 {{ margin:1.5rem 0 .6rem; }}
+  .wrap {{ max-width:none; padding:0; }}
   section.part, article {{ page-break-before:always; }}
-  .cover {{ page-break-after:always; min-height:0; }}
+  .cover {{ page-break-after:always; min-height:86vh; }}
+  nav.toc {{ page-break-after:always; }}
   .totop {{ display:none; }}
   a {{ color:var(--ink); }} }}
 </style>

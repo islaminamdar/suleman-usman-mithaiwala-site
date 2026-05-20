@@ -5,5 +5,6 @@ node_modules/
 .idea/
 *.log
 
-# Generated reading copy of the manuscript (rebuild with _scripts/build_book.py)
-manuscript/book.html
+# Generated reading copies of the manuscript
+# (rebuild with _scripts/build_book.py and _scripts/build_docx.py)
+manuscript/book.*
