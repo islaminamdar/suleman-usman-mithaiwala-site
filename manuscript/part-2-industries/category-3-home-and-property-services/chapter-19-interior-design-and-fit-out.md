@@ -14,7 +14,7 @@ Interior design and fit-out refers to the spectrum of services between imagining
 
 **Fit-out contracting** is the physical execution: construction, joinery, MEP (mechanical, electrical, and plumbing) rough-ins, raised flooring, suspended ceilings, and the full build-out of a space. A fit-out contractor takes a shell space and delivers a finished, habitable interior. The output is a built environment, and the contractor is responsible for it structurally, mechanically, and in terms of fire safety.
 
-In Dubai, these are different licensed activities with different regulatory requirements. Some businesses hold both — a design-and-build firm that conceives and constructs — but each component must be properly licenced.
+In Dubai, these are different licensed activities with different regulatory requirements. Some businesses hold both — a design-and-build firm that conceives and constructs — but each component must be properly licensed.
 
 The market is driven by Dubai's relentless cycle of new construction, turnover of commercial tenants, and the cultural appetite for high-quality residential interiors. Hotel refurbishments, retail fit-outs, restaurant launches, office relocations, and luxury villa renovations are all live project types. The commercial sector — particularly F&B, retail, and hospitality — tends to produce higher-value contracts and tighter deadlines.
 
@@ -108,6 +108,6 @@ This suits the founder who brings genuine design or construction expertise, who 
 
 It does not suit the founder who expects to learn the technical side on the client's project, who accepts contracts without understanding the cost, or who treats Civil Defence and Dubai Municipality approvals as optional steps.
 
-**Bottom line:** A properly licenced, technically credible interior design or fit-out business can find a strong position in Dubai's perpetually renewing commercial and residential market — but only if the regulatory and cash-flow foundations are built correctly from the start.
+**Bottom line:** A properly licensed, technically credible interior design or fit-out business can find a strong position in Dubai's perpetually renewing commercial and residential market — but only if the regulatory and cash-flow foundations are built correctly from the start.
 
 ---

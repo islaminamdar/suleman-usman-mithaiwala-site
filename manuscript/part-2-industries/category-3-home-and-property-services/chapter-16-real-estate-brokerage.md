@@ -8,7 +8,7 @@ PART TWO — THE FIELD GUIDE  ·  HOME & PROPERTY SERVICES
 
 ## 1 · What this business actually is in Dubai
 
-Real estate brokerage in Dubai is the licenced, regulated activity of facilitating property transactions — sales and leases — between sellers or landlords on one side, and buyers or tenants on the other. The broker earns a commission when the deal closes. There is no retainer, no salary from the client, and no revenue without a completed transaction. That single fact shapes everything about how the business operates.
+Real estate brokerage in Dubai is the licensed, regulated activity of facilitating property transactions — sales and leases — between sellers or landlords on one side, and buyers or tenants on the other. The broker earns a commission when the deal closes. There is no retainer, no salary from the client, and no revenue without a completed transaction. That single fact shapes everything about how the business operates.
 
 Dubai's property market is large, liquid, and active. Thousands of residential and commercial transactions complete each month, ranging from studio apartments in Jumeirah Village Circle to penthouses in Palm Jumeirah to commercial floors in the central business district. The secondary market is substantial; the off-plan market — where developers sell units before or during construction — is equally significant and runs on different dynamics.
 

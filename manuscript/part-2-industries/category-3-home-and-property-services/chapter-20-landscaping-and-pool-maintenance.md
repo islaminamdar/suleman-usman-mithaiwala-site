@@ -48,7 +48,7 @@ A lean start serving residential villas: AED 140,000–210,000. A properly capit
 
 **Free zone vs mainland:** A free zone entity is not the appropriate structure for a business physically delivering services across Dubai's residential communities and villa compounds. A mainland DET licence is the correct choice.
 
-**Practical recommendation:** Register both activities on your licence from the start. Landscaping installation projects and maintenance contracts often come together, and being licenced for both avoids the need to return to DET for an activity amendment later.
+**Practical recommendation:** Register both activities on your licence from the start. Landscaping installation projects and maintenance contracts often come together, and being licensed for both avoids the need to return to DET for an activity amendment later.
 
 ---
 
