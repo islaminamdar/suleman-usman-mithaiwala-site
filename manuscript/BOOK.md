@@ -7,7 +7,7 @@
 *From Restaurant to Real Estate, Salon to SaaS*
 
 
-*Book Two — working draft.*
+By Islam Inamdar. First Edition · 2026.
 
 ---
 
@@ -397,7 +397,7 @@ Read each industry chapter against yourself — your capital, your time, your te
 
 # Part Two — The Field Guide
 
-*Thirty-five industries, eight categories, one template — six pages each, built to be compared.*
+*Thirty-five industries, eight categories, one template — built to be read against each other.*
 
 ---
 
