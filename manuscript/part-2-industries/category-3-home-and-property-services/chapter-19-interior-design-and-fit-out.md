@@ -2,7 +2,7 @@ PART TWO — THE FIELD GUIDE  ·  HOME & PROPERTY SERVICES
 
 # Chapter 19 · Interior Design & Fit-Out
 
-*Two related but legally distinct activities — one sells ideas and the other builds them — and the difference matters from the moment you file your licence.*
+*One business sells the idea. The other builds it. Confuse the two and the licence is the first thing that catches you.*
 
 ---
 
@@ -42,7 +42,7 @@ A lean design consultancy: AED 120,000–200,000. A properly capitalised design-
 
 ## 3 · Licence & jurisdiction
 
-The licensing distinction between design and fit-out is one of the most important facts in this chapter.
+The licensing distinction between design and fit-out is one of the most important facts in this chapter. Read it twice.
 
 **Interior design licence:** A DET commercial licence listing interior design as the activity covers the advisory, consultative, and specification function. This licence permits the design work but does not authorise you to carry out physical construction or fit-out work.
 
@@ -50,7 +50,7 @@ The licensing distinction between design and fit-out is one of the most importan
 
 **Dubai Municipality contractor registration:** Fit-out contractors performing work in Dubai must be registered with Dubai Municipality as an approved contractor. The registration process includes demonstrating qualified technical personnel, relevant insurance, and compliance with technical standards. Without DM registration, you cannot legally execute commercial fit-out work in Dubai. The requirements and fees are set by DM and are subject to revision; confirm the current process directly.
 
-**Civil Defence approval:** In Dubai, fit-out works in commercial and hospitality spaces require Civil Defence sign-off — specifically, approval of the MEP design and, upon completion, a compliance certificate confirming that fire detection, suppression, and egress requirements are met. A fit-out contractor who delivers a project without Civil Defence approval leaves the client unable to obtain a trade licence or occupancy permit for the space. This is not a technicality; it is a hard requirement.
+**Civil Defence approval:** In Dubai, fit-out works in commercial and hospitality spaces require Civil Defence sign-off — specifically, approval of the MEP design and, upon completion, a compliance certificate confirming that fire detection, suppression, and egress requirements are met. A fit-out contractor who delivers a project without Civil Defence approval leaves the client unable to obtain a trade licence or occupancy permit for the space. This is not a technicality. It is a hard requirement.
 
 **Free zone vs mainland:** Design consultancies can operate from free zones without issue if their clients are comfortable with it. Fit-out contractors doing physical works on the mainland need a mainland structure or a mainland branch.
 

@@ -2,11 +2,11 @@ PART TWO — THE FIELD GUIDE  ·  FOOD & BEVERAGE
 
 # Chapter 10 · Bakery & Dessert Shop
 
-*A business built on gifting culture, seasonal peaks, and an Instagram-driven discovery cycle — with a production discipline requirement that most founders underestimate.*
+*Built on gifting, seasonal peaks, and an Instagram discovery cycle — and a production discipline most founders underestimate.*
 
 ---
 
-Dubai's bakery and dessert market is as much a gifting industry as it is a food one. The customer buying a custom cake or a box of premium chocolates is often purchasing an experience to give to someone else, and that shift in motive changes how the business should be built.
+Dubai's bakery and dessert market is as much a gifting industry as it is a food one. The customer buying a custom cake or a box of premium chocolates is rarely buying it for themselves. They are buying an experience to give to someone else — and that shift in motive changes how the business should be built.
 
 ## 1 · What this business actually is in Dubai
 

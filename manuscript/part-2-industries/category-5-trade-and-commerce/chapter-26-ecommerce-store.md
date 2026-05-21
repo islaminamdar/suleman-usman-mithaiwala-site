@@ -2,7 +2,7 @@ PART TWO — THE FIELD GUIDE  ·  TRADE & COMMERCE
 
 # Chapter 26 · E-commerce Store
 
-*Selling online in Dubai is easier to start than almost any other business in this book — and harder to make profitable than most people expect.*
+*Easier to start than almost any business in this book. Harder to make profitable than almost anyone expects.*
 
 ---
 
@@ -12,7 +12,7 @@ An e-commerce store in Dubai is a UAE-registered business that sells physical go
 
 The local market is genuinely large. Dubai's population is young, highly connected, and accustomed to buying online. Delivery infrastructure has matured considerably, and consumer trust in online payment has risen. The platforms matter: noon and Amazon.ae are the dominant marketplaces, and listing on either gives a new seller instant access to an established customer base — at a cost, in the form of commission and competitive pressure on price.
 
-What the market cannot absorb is another undifferentiated reseller of imported goods without a clear reason to buy from them rather than the dozens of existing alternatives. The operational ease of setting up an e-commerce store — lower rent, no daily foot traffic to worry about, no café licence for the coffee you serve — is paired with intense digital competition. Customer acquisition cost is real, and it compounds against thin margins.
+What the market cannot absorb is another undifferentiated reseller of imported goods with no reason for anyone to buy from them rather than the dozens of existing alternatives. The operational ease of setting up an e-commerce store is seductive — lower rent, no daily foot traffic to worry about, no café licence for the coffee you serve. It is paired with intense digital competition. Customer acquisition cost is real, and it compounds against thin margins.
 
 Expect to manage supplier relationships, returns, delivery partners, platform algorithms, and customer service from day one. The "passive income" version of this business exists only in the imagination.
 
@@ -61,7 +61,7 @@ The practical recommendation for most founders is the DET e-commerce licence if 
 
 **Customer three: targeted paid social.** A modest Meta (Instagram and Facebook) or TikTok advertising spend of AED 1,500–3,000 on a tightly defined audience can generate meaningful traffic to a well-built product page. "Well-built" is load-bearing here: a slow website, a complicated checkout, or an unclear returns policy will convert nothing. Test one product, one audience, one creative, and read the results before scaling.
 
-Across all three, collect every customer's email address or WhatsApp number at the point of sale. Repeat customers are dramatically cheaper to reach than new ones, and in a thin-margin category, that difference determines whether the business is profitable.
+Across all three, collect every customer's email address or WhatsApp number at the point of sale. Repeat customers are dramatically cheaper to reach than new ones, and in a thin-margin category, that difference decides whether the business is profitable.
 
 ---
 
@@ -69,7 +69,7 @@ Across all three, collect every customer's email address or WhatsApp number at t
 
 E-commerce margins vary sharply by product category, but realistic gross margins for physical goods sold online fall between 25% and 50%. Commodity products — phone accessories, generic clothing basics, undifferentiated home goods — sit at the lower end, often compressed further by marketplace commissions of 8–15%. Proprietary or branded products with limited alternatives can sustain margins at the top of the range.
 
-Net margins, after deducting platform commissions, shipping and returns, customer acquisition cost, storage, the licence overhead, and staff, commonly land between 5% and 15% for a well-run operation. Many early-stage e-commerce businesses run net margins below 5% — or negative — while they are building customer acquisition efficiency. This is normal in the category, but it demands that you enter with enough capital to absorb the learning period.
+Net margins, after deducting platform commissions, shipping and returns, customer acquisition cost, storage, the licence overhead, and staff, commonly land between 5% and 15% for a well-run operation. Many early-stage e-commerce businesses run net margins below 5% — or negative — while they are building customer acquisition efficiency. That is normal in the category. It is also a warning: enter with enough capital to absorb the learning period, or it will end the business before the learning pays off.
 
 The cash cycle is simpler than in B2B trading — most consumer e-commerce collects payment at the point of purchase — but the trap is different. It is not accounts receivable; it is inventory. You tie up cash in stock. If that stock moves slowly, or if you ordered too many units of the wrong SKU, the money is immobilised. Returns, particularly on marketplace channels, add another layer: goods come back, refunds go out, and the processing time eats into your cash position.
 
@@ -79,7 +79,7 @@ Target breakeven at six to twelve months for a focused operation. That assumes d
 
 ## 6 · Top 3 mistakes
 
-**Launching with too many SKUs.** The logic that more products means more revenue sounds reasonable but plays out badly in practice. Every additional SKU is more cash tied up in stock, more listing work, more customer service complexity, and more slow-moving inventory when demand is uneven. The founders who reach profitability fastest are typically those who begin with three to five products they understand deeply and have confirmed demand for, then add only once the initial range is generating steady orders. Launch narrow; widen once you know what sells.
+**Launching with too many SKUs.** The logic that more products means more revenue sounds reasonable and plays out badly. Every additional SKU is more cash tied up in stock, more listing work, more customer service complexity, and more slow-moving inventory when demand is uneven. The founders who reach profitability fastest are typically those who begin with three to five products they understand deeply and have confirmed demand for, then add only once the initial range is generating steady orders. Launch narrow; widen once you know what sells.
 
 **Treating marketplace commissions as the only cost of selling on platforms.** The commissions are visible. What is less visible is the pressure to discount, to participate in platform promotions, and to compete on price with sellers who have lower cost bases or different business models. Founders who list on noon or Amazon.ae expecting passive inbound volume, without understanding how the platform's search and pricing algorithms work, will find their products invisible and their margins eroded by promotions they feel compelled to join. Understand the platform before you depend on it.
 
@@ -101,9 +101,9 @@ The businesses that look successful from the outside but are not making money te
 
 E-commerce in Dubai is a legitimate and accessible business for the right founder — one with a differentiated product, a realistic customer acquisition plan, and the capital to absorb a stock and marketing investment before the revenues are consistent. The market is real, the infrastructure is in place, and the consumer appetite is genuine.
 
-It is not suitable for founders who plan to enter a crowded category with no clear differentiation, who are relying on marketplace traffic to arrive organically without a plan for visibility, or who have budgeted only the licence and the first stock order. Working capital matters here as much as in any trading business; the form of the trap is simply different.
+It is not for the founder who plans to enter a crowded category with no clear differentiation, who is relying on marketplace traffic to arrive organically without a plan for visibility, or who has budgeted only the licence and the first stock order. Working capital matters here as much as in any trading business; the form of the trap is simply different.
 
-The e-trader route offers a genuinely low-friction way for UAE residents to test a product concept before committing to a full company structure. Use it for that purpose.
+The e-trader route offers a genuinely low-friction way for UAE residents to test a product concept before committing to a full company structure. Use it for exactly that.
 
 **Bottom line:** E-commerce rewards a focused product range, disciplined stock management, and genuine investment in customer acquisition — founders who treat the online channel as a real sales operation, not a passive income stream, are the ones who make the numbers work in Dubai.
 

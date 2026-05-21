@@ -2,7 +2,7 @@ PART TWO — THE FIELD GUIDE  ·  HOME & PROPERTY SERVICES
 
 # Chapter 18 · Handyman & Maintenance
 
-*The business of keeping buildings functional — unglamorous, essential, and persistently in demand across one of the world's fastest-growing city footprints.*
+*Unglamorous, essential, and never short of work — the business of keeping buildings running across one of the world's fastest-growing city footprints.*
 
 ---
 
@@ -12,9 +12,9 @@ A handyman and maintenance business in Dubai provides repair, upkeep, and minor-
 
 Dubai's property stock creates consistent structural demand. Air-conditioning systems operate under extreme load for the majority of the year and require servicing and repair routinely. Buildings age, tenants turn over, and developers deliver units that need minor rectifications before habitation. The city's pace of construction means there is always a new layer of properties entering the maintenance cycle.
 
-What makes this sector distinct from a purely informal handyman market is its regulatory character. Building maintenance activities in Dubai fall under a defined category of licensed work, and qualified technical staff are central to the proposition. Clients — particularly corporate ones — expect to see evidence of qualified technicians, relevant insurance, and appropriate registration before awarding contracts. The informal end of the market exists but is not the basis for a defensible business.
+What makes this sector distinct from a purely informal handyman market is its regulatory character. Building maintenance activities in Dubai fall under a defined category of licensed work, and qualified technical staff are central to the proposition. Clients — particularly corporate ones — expect to see evidence of qualified technicians, relevant insurance, and appropriate registration before awarding contracts. The informal end of the market exists. It is not the basis for a defensible business.
 
-The typical business model for a small-to-mid-sized operator combines AMC revenue — fixed annual or monthly fees for defined servicing obligations — with reactive call-out work charged at a day or half-day rate. AMC revenue is predictable; call-outs are higher-margin but variable. The most stable operators optimise for AMC coverage first and treat reactive work as upside.
+The typical business model for a small-to-mid-sized operator combines AMC revenue — fixed annual or monthly fees for defined servicing obligations — with reactive call-out work charged at a day or half-day rate. AMC revenue is predictable. Call-outs are higher-margin but variable. The most stable operators optimise for AMC coverage first and treat reactive work as upside.
 
 ---
 
@@ -44,7 +44,7 @@ A lean start with two technicians: AED 150,000–220,000. A comfortable multi-tr
 
 **Dubai Municipality approvals:** For certain maintenance works — particularly anything that touches building structure, electrical systems in commercial buildings, or mechanical plant — Dubai Municipality may require contractor registration or technical approval. At the time of writing, small-scope residential maintenance typically does not require separate DM contractor approval, but commercial maintenance contracts, particularly in multi-storey buildings, increasingly require it. Confirm the current requirement for your specific trade and client profile before tendering.
 
-**Qualified technical staff:** MOHRE and DET both have provisions related to technical activities requiring qualified personnel. Certain electrical and mechanical works require practitioners to hold relevant trade certificates or qualifications. Clients in the commercial and facilities management space will ask for this documentation as a matter of course. Do not staff your technical roles with unqualified workers and assume it will not surface.
+**Qualified technical staff:** MOHRE and DET both have provisions related to technical activities requiring qualified personnel. Certain electrical and mechanical works require practitioners to hold relevant trade certificates or qualifications. Clients in the commercial and facilities management space will ask for this documentation as a matter of course. Do not staff your technical roles with unqualified workers and assume it will not surface. It will.
 
 **Free zone vs mainland:** A free zone entity is not well-suited to a business that is physically performing services across the Dubai mainland. A mainland DET licence is the correct structure.
 
@@ -82,7 +82,7 @@ Breakeven for a two- to three-person operation with modest overheads typically r
 
 **Pricing AMC contracts without fully costing the call-out obligations.** The most common financial trap in this business is an AMC priced on the assumption that scheduled visits are the only time commitment, when in practice the contract also includes an obligation to respond to reactive faults. Founders who price AMCs based on the scheduled servicing cost alone — without modelling the realistic frequency of reactive call-outs — find that the most active buildings consume far more technician-hours than the contract covers. Before you price any AMC, model the worst-case call-out scenario and ensure the contract rate covers it.
 
-**Overstating technical capabilities to win the first contract.** The pressure to win early contracts leads some operators to represent their team as covering trades or qualifications they do not yet have. When the job requires a skill the team lacks, the outcome is either a botched repair or an emergency subcontract at a cost that exceeds the fee. Either way, the client does not return. Start with the trades you can genuinely deliver, build competence methodically, and add trades as your team grows. A smaller, honest scope wins repeat business; an overstated scope destroys it.
+**Overstating technical capabilities to win the first contract.** The pressure to win early contracts leads some operators to represent their team as covering trades or qualifications they do not yet have. When the job requires a skill the team lacks, the outcome is either a botched repair or an emergency subcontract at a cost that exceeds the fee. Either way, the client does not return. Start with the trades you can genuinely deliver, build competence methodically, and add trades as your team grows. A smaller, honest scope wins repeat business. An overstated scope destroys it.
 
 **Ignoring the insurance and liability exposure.** A maintenance company operating in occupied homes and commercial buildings carries real liability: a poorly executed electrical repair can cause a fire; a plumbing error can flood the floor below. Professional indemnity and public liability insurance are not bureaucratic formalities. They are the difference between a manageable incident and a business-ending claim. Ensure your cover is current, adequate for the scale of contracts you are pursuing, and presented to corporate clients before they ask for it.
 

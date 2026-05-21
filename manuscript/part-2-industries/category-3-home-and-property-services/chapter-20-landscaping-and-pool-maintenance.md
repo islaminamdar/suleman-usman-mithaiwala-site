@@ -2,7 +2,7 @@ PART TWO — THE FIELD GUIDE  ·  HOME & PROPERTY SERVICES
 
 # Chapter 20 · Landscaping & Pool Maintenance
 
-*A recurring-revenue, labour-heavy business serving a city that insists on greenery and water despite a climate that makes both expensive to maintain.*
+*A recurring-revenue, labour-heavy business serving a city that demands greenery and water in a climate built to defeat both.*
 
 ---
 

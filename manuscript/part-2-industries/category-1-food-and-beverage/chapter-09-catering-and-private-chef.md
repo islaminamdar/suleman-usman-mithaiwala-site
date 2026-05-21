@@ -2,11 +2,11 @@ PART TWO — THE FIELD GUIDE  ·  FOOD & BEVERAGE
 
 # Chapter 9 · Catering & Private Chef
 
-*Event-driven demand, corporate contracts, and a different relationship with rent — this is F&B with a more manageable cost structure.*
+*F&B without a dining room to fill every night — and a cost structure that finally behaves.*
 
 ---
 
-Catering is the food business that does not require you to fill seats every night. Your revenue comes in peaks — weddings, corporate conferences, Ramadan gatherings, Eid celebrations — and the discipline is in managing those peaks profitably and using quieter periods to build the client pipeline for the next one.
+Catering is the food business that does not require you to fill seats every night. Your revenue comes in peaks — weddings, corporate conferences, Ramadan gatherings, Eid celebrations — and the discipline is in managing those peaks profitably and using the quiet stretches to build the pipeline for the next one.
 
 ## 1 · What this business actually is in Dubai
 

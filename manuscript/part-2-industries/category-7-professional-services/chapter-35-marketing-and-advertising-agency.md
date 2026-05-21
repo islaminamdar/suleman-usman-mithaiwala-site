@@ -2,7 +2,7 @@ PART TWO — THE FIELD GUIDE  ·  PROFESSIONAL SERVICES
 
 # Chapter 35 · Marketing & Advertising Agency
 
-*The asset walks out of the office every evening — building a sustainable agency means building systems around people, not just people.*
+*Your only asset walks out of the office every evening. A sustainable agency is built around people — not just built from them.*
 
 ---
 
@@ -14,7 +14,7 @@ A marketing and advertising agency in Dubai helps businesses plan, create, and d
 
 Dubai's agency market is sophisticated and genuinely competitive. Multinational agency networks operate here, as do regional independents, boutique creative studios, and hundreds of small digital shops. The client base is equally varied: global brands with regional headquarters in DIFC and Business Bay, homegrown F&B and retail groups, real estate developers, government-linked entities, and the ever-growing population of SMEs that need professional marketing but cannot afford a full-time in-house team.
 
-The city's size and diversity create natural niches. An agency that speaks Arabic and English with equal fluency serves a different market than one focused on English-language digital work for tech companies. A firm that understands real estate marketing — off-plan launches, CRM nurture campaigns, broker networks — operates in a category with specific demands that generalist agencies rarely serve well. Defining your niche early is not a limitation; it is how you become referable.
+The city's size and diversity create natural niches. An agency that speaks Arabic and English with equal fluency serves a different market than one focused on English-language digital work for tech companies. A firm that understands real estate marketing — off-plan launches, CRM nurture campaigns, broker networks — operates in a category with specific demands that generalist agencies rarely serve well. Defining your niche early is not a limitation. It is how you become referable.
 
 The practical reality: this is a people business. Your output is only as good as the team producing it, and your team will be hired away by competitors, clients, and larger agencies if you do not manage culture and compensation with intention.
 

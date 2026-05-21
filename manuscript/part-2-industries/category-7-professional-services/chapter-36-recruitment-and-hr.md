@@ -2,7 +2,7 @@ PART TWO — THE FIELD GUIDE  ·  PROFESSIONAL SERVICES
 
 # Chapter 36 · Recruitment & HR Services
 
-*This category has two distinct models with very different capital requirements and regulatory burdens — choosing correctly before you apply for a licence matters more here than almost anywhere else in this guide.*
+*Two businesses hide under one name — with very different capital and very different regulation. Choose wrong before you apply, and you pay for it.*
 
 ---
 

@@ -2,21 +2,21 @@ PART TWO — THE FIELD GUIDE  ·  PERSONAL & LIFESTYLE SERVICES
 
 # Chapter 14 · Tutoring & Training Centre
 
-*Education in Dubai is regulated with an intensity that surprises almost every first-time founder — plan for the process, not against it.*
+*Education in Dubai is regulated harder than almost any first-time founder expects — plan for the process, not against it.*
 
 ---
 
-Teaching and training others is one of the most natural businesses a skilled professional thinks of entering. The logic seems straightforward: find students, charge fees, deliver lessons. In Dubai, that logic runs directly into one of the most rigorous regulatory frameworks in the category — the Knowledge and Human Development Authority, known as KHDA. Understanding KHDA's role before you commit to a location, a lease, or a curriculum is not optional; it is the first task, and it shapes every decision that follows.
+Teaching others is one of the most natural businesses a skilled professional thinks of starting. The logic seems simple: find students, charge fees, deliver lessons. In Dubai, that logic runs straight into one of the most rigorous regulatory frameworks in the category — the Knowledge and Human Development Authority, known as KHDA. Understand KHDA's role before you commit to a location, a lease, or a curriculum. This is not optional. It is the first task, and it shapes every decision that follows.
 
 ## 1 · What this business actually is in Dubai
 
 Tutoring and training in Dubai divides into two clearly distinct operating models, and the distinction matters enormously from a regulatory standpoint.
 
-The first model is the tutoring and training centre: a fixed premises, a named business, delivering structured educational or skills programmes to students or trainees. This might be a supplementary tutoring centre supporting school-age children in maths, English, or science; a language school; a professional skills training centre delivering certifications in business, technology, or vocational subjects; or an arts and enrichment programme. Any of these, operating from a physical premises and taking on enrolled students, requires KHDA approval. KHDA is the educational regulator for private education and training activities in Dubai, and its approval process is substantive — it involves an assessment of the curriculum, the qualifications of the instructors, the suitability of the premises, and the management structure of the institution. This is not a rubber stamp; applications are reviewed and can be rejected or require revision.
+The first model is the tutoring and training centre: a fixed premises, a named business, delivering structured educational or skills programmes to students or trainees. This might be a supplementary tutoring centre supporting school-age children in maths, English, or science; a language school; a professional skills training centre delivering certifications in business, technology, or vocational subjects; or an arts and enrichment programme. Any of these, operating from a physical premises and taking on enrolled students, requires KHDA approval. KHDA is the educational regulator for private education and training activities in Dubai, and its approval process is substantive — it involves an assessment of the curriculum, the qualifications of the instructors, the suitability of the premises, and the management structure of the institution. This is not a rubber stamp. Applications are reviewed, and they can be rejected or required to be revised.
 
 The second model is one-to-one private tutoring: an individual, without a commercial premises dedicated to the activity, providing tuition to individual students, typically in the student's home or online. This lighter-touch model sits outside the full KHDA institutional approval regime, though it is not entirely unregulated — a freelance permit or professional licence may be required depending on the individual's visa and activity status.
 
-For most people contemplating this chapter, the question is which route they are actually building. A single tutor working with a handful of families is a freelancer. A centre with multiple instructors, a fixed premises, and enrolled students is an institution. The line matters, and being on the wrong side of it — operating a de facto centre without KHDA approval — is a compliance risk that regulators take seriously.
+For most people contemplating this chapter, the real question is which route they are actually building. A single tutor working with a handful of families is a freelancer. A centre with multiple instructors, a fixed premises, and enrolled students is an institution. The line matters, and being on the wrong side of it — running a de facto centre without KHDA approval — is a compliance risk that regulators take seriously.
 
 ---
 
@@ -48,7 +48,7 @@ For training that leads to professional or vocational certifications, KHDA may a
 
 The free zone route is not appropriate for a premises-based centre that serves the Dubai public. Mainland is the correct jurisdiction.
 
-The lighter-touch alternative — one-to-one private tutoring — may be operable under a freelance licence or professional licence without full KHDA institutional approval. If this is your actual model, confirm the correct licence category with DET and KHDA before proceeding, as the boundary between freelance tutoring and an unlicensed training operation is one that regulators monitor.
+The lighter-touch alternative — one-to-one private tutoring — may be operable under a freelance licence or professional licence without full KHDA institutional approval. If this is your actual model, confirm the correct licence category with DET and KHDA before proceeding, because the boundary between freelance tutoring and an unlicensed training operation is one that regulators monitor.
 
 ---
 
@@ -70,7 +70,7 @@ A well-run tutoring or training centre achieves gross margins of 55–70% — th
 
 The cash cycle varies by programme structure. Centres that charge term or semester fees in advance collect cash before the service is delivered, which is a structural advantage. Centres that invoice monthly or per-session have a shorter cash cycle but less revenue visibility. Where possible, structure fees to align with school terms — parents are accustomed to this rhythm and the advance payment matches the cost base.
 
-The specific cash trap in this category is the pre-revenue period imposed by the KHDA approval timeline. You cannot enrol students before approval is granted, but the rent, the staff, and the fit-out costs are running from the day the lease commences and the team is hired. A centre that takes six months to receive KHDA approval — and this is not an unusual timeline — carries six months of fixed costs with no enrolment income. This is not a surprise to be managed in hindsight; it must be built into the capital plan from the outset.
+The specific cash trap in this category is the pre-revenue period imposed by the KHDA approval timeline. You cannot enrol students before approval is granted, but the rent, the staff, and the fit-out costs are running from the day the lease commences and the team is hired. A centre that takes six months to receive KHDA approval — and this is not an unusual timeline — carries six months of fixed costs with no enrolment income. This is not a surprise to be managed in hindsight. It must be built into the capital plan from the outset.
 
 Breakeven typically falls between twelve and twenty-four months for a properly funded centre, depending on how quickly KHDA approval is obtained and how efficiently enrolment builds. More than in any other category in this section, the timeline is set partly by the regulator, not just by the market.
 

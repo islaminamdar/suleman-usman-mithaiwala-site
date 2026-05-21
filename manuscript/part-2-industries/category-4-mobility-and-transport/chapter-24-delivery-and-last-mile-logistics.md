@@ -6,7 +6,7 @@ PART TWO — THE FIELD GUIDE  ·  MOBILITY & TRANSPORT
 
 ---
 
-Last-mile delivery in Dubai is a real industry with real demand, and it is one of the hardest businesses in this book to run profitably. The barriers to entry are low: you need riders, vehicles, and a client. The barriers to survival are much higher: you need to manage a rider workforce across multiple visa and HR obligations, keep vehicles compliant with RTA requirements, price accurately enough to cover costs that are constantly in motion, and do all of this while competing against established aggregators who have already built the technology infrastructure and the client base. This chapter is not a discouragement. It is a precise description of what the business actually requires.
+Last-mile delivery in Dubai is a real industry with real demand, and it is one of the hardest businesses in this book to run profitably. The barriers to entry are low: you need riders, vehicles, and a client. The barriers to survival are much higher. You must manage a rider workforce across multiple visa and HR obligations, keep vehicles compliant with RTA requirements, price accurately enough to cover costs that are constantly in motion, and do all of it while competing against established aggregators who already own the technology and the client base. This chapter is not a discouragement. It is a precise description of what the business actually requires.
 
 ## 1 · What this business actually is in Dubai
 

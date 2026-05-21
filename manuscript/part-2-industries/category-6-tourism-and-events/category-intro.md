@@ -2,16 +2,16 @@ PART TWO — THE FIELD GUIDE
 
 # Category Six · Tourism & Events
 
-*Four industries bound together by eighteen million annual visitors, a hard seasonal peak, and the discipline to manage cash that arrives in lumps.*
+*Four industries fed by eighteen million annual visitors, broken by one hard seasonal peak, and saved or sunk by the discipline to manage money that arrives in lumps.*
 
 ---
 
-Dubai's tourism economy is not a background feature of the city — it is one of its deliberate structural pillars. Close to eighteen million international visitors arrive each year, drawn by leisure, business travel, and events ranging from Expo-scale exhibitions to intimate private weddings. The four industries in this category exist to serve that flow: getting visitors here and moving them around, handling their travel logistics, staging the moments they came for, and housing them once they arrive.
+Tourism in Dubai is not decoration on the economy. It is load-bearing. Close to eighteen million international visitors arrive each year — for leisure, for business, for events that range from Expo-scale exhibitions to a single private wedding. The four industries in this category serve that flow. They get visitors here. They handle the travel logistics. They stage the moments visitors flew in for. And they house those visitors once they land.
 
-What binds these businesses together is seasonality. Dubai's cooler months — broadly October through April — are the productive peak. The summer is real, and it is long. A business that does not build its cash reserves during the busy season to carry fixed costs through the slow one will discover this painfully in July. Every operator in this category manages, consciously or otherwise, a seven-month sprint and a five-month discipline exercise.
+The first thing binding these businesses together is seasonality, and it is not a gentle one. Dubai's cooler months — broadly October through April — are the productive peak. The summer is long. A business that does not bank reserves in the busy season to carry the slow one will learn this in July — the most expensive classroom in the calendar. Every operator in this category runs, knowingly or otherwise, a seven-month sprint and a five-month discipline exercise. Plan for both halves, or only one will survive you.
 
-Regulation is the second shared thread. All four industries are licensed under the DTCM — the Dubai Tourism and Commerce Marketing authority, which sits within DET — with some requiring additional approvals from Dubai Municipality, the police, and the RTA. Licensing is not optional, and in tourism it is not light: activity permits, vehicle approvals, guide qualifications, unit registrations, and event-specific permits are layered on top of the base trade licence. Budget time and fees accordingly.
+Regulation is the second shared thread. All four industries are licensed under the DTCM — the Dubai Tourism and Commerce Marketing authority, which sits within DET — and some require additional approvals from Dubai Municipality, the police, and the RTA. Licensing here is not optional, and it is not light. Activity permits, vehicle approvals, guide qualifications, unit registrations, event-specific permits — each is layered on top of the base trade licence. Budget the time. Budget the fees. Treat neither as a formality, because neither is one.
 
-The third shared dynamic is cash flow that arrives in lumps: client deposits, advance bookings, and Tourism Dirham remittances. The businesses that succeed here build systems around those rhythms rather than spending the deposit before the supplier invoice arrives.
+The third shared dynamic is money that arrives in lumps: client deposits, advance bookings, Tourism Dirham remittances. The operators who survive build systems around those rhythms. The ones who do not spend the deposit before the supplier invoice arrives, then call the result bad luck. It was not luck. It was arithmetic they declined to do.
 
-Read each chapter for the specifics of its own cost structure, licence path, and customer channel. The category logic runs through all four.
+Read each chapter for its own cost structure, licence path, and customer channel. The category logic runs through all four — peak, paperwork, lumpy cash.

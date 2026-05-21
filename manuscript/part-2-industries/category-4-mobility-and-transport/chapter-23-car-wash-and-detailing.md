@@ -6,7 +6,7 @@ PART TWO — THE FIELD GUIDE  ·  MOBILITY & TRANSPORT
 
 ---
 
-Car wash and detailing in Dubai is one of the more accessible entry points in the Mobility and Transport category. The capital required is lower, the regulatory frame is narrower, and a well-located operation can reach breakeven faster than most other businesses in this guide. But "accessible" does not mean forgiving — the fundamentals of location, water compliance, and throughput economics determine whether this is a viable business or an expensive hobby.
+Car wash and detailing in Dubai is one of the more accessible entry points in the Mobility and Transport category. The capital required is lower, the regulatory frame is narrower, and a well-located operation can reach breakeven faster than most other businesses in this guide. But "accessible" does not mean forgiving. Three fundamentals — location, water compliance, and throughput economics — decide whether this is a viable business or an expensive hobby.
 
 ## 1 · What this business actually is in Dubai
 
@@ -18,7 +18,7 @@ The second is the mobile or on-demand format: a van or small team that travels t
 
 Both formats range from a basic exterior wash (AED 30–60 per vehicle at the time of writing, confirm current market rates) through to premium interior and exterior detailing packages (AED 500–2,500 depending on vehicle size and service depth). Paint correction, ceramic coating, and protection film are specialist services that command substantially higher prices and require trained technicians and appropriate workshop conditions.
 
-The customer is primarily a Dubai resident or business with regular cleaning needs — the tourist is not the target. Loyalty and repeat frequency are the economics that matter here, not single-visit yield.
+The customer is primarily a Dubai resident or business with regular cleaning needs — the tourist is not the target. Loyalty and repeat frequency are the economics that matter here, not single-visit yield. You are not selling a wash. You are selling the next twenty washes.
 
 ## 2 · Capital required
 

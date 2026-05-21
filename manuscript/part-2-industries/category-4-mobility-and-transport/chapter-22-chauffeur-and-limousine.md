@@ -6,7 +6,7 @@ PART TWO — THE FIELD GUIDE  ·  MOBILITY & TRANSPORT
 
 ---
 
-Chauffeur and limousine service in Dubai occupies a specific, regulated corridor between the mass-market ride-hailing apps and the general car rental market. It is a business built on approved vehicle categories, licensed operators, and the trust of clients who are paying not just for a ride but for discretion, timing, and a professional experience. The economics are more forgiving than car rental's, but the entry conditions are tightly controlled.
+Chauffeur and limousine service in Dubai occupies a specific, regulated corridor between the mass-market ride-hailing apps and the general car rental market. It is a business built on three things: approved vehicle categories, licensed operators, and the trust of clients who are paying not just for a ride but for discretion, timing, and a professional experience. The economics are more forgiving than car rental's. The entry conditions are tightly controlled. Respect both.
 
 ## 1 · What this business actually is in Dubai
 
@@ -14,9 +14,9 @@ Dubai's chauffeur and limousine industry is regulated by the RTA under its limou
 
 The customer base divides into recognisable groups. Corporate clients account for a meaningful share: executives requiring airport transfers, roadshow transport, and consistent daily commutes at a standard that reflects their organisation's image. Hotels are the second major channel — four- and five-star properties in Dubai generate constant demand for airport pickups, restaurant transfers, and city excursions, and they expect operators to hold approved status before they will recommend them. The third segment is the events and occasions market: weddings, graduations, VIP entertainment, and government-related functions.
 
-What makes the Dubai market specific is the concentration of demand. Key generators — Dubai International Airport, Al Maktoum International, the hotel corridors of Sheikh Zayed Road, the DIFC, and the business parks of Media City and Internet City — sit within a relatively compact geography. An operator who has secured strong relationships with two or three of these demand nodes can build a sustainable, predictable business with a modest fleet of five to eight vehicles.
+What makes the Dubai market specific is the concentration of demand. The key generators — Dubai International Airport, Al Maktoum International, the hotel corridors of Sheikh Zayed Road, the DIFC, and the business parks of Media City and Internet City — sit within a relatively compact geography. An operator who has secured strong relationships with two or three of these demand nodes can build a sustainable, predictable business with a modest fleet of five to eight vehicles.
 
-The model does not scale linearly through size. A chauffeur operator is selling a service experience, and quality degrades quickly if the driver pool is poorly managed or vehicles are not immaculately maintained. Smaller operators with excellent presentation and reliable drivers consistently outperform larger ones who have sacrificed quality for volume.
+The model does not scale linearly through size. A chauffeur operator is selling a service experience, and quality degrades quickly if the driver pool is poorly managed or the vehicles are not immaculately maintained. Smaller operators with excellent presentation and reliable drivers consistently outperform larger ones who have sacrificed quality for volume. Bigger is not the strategy here. Better is.
 
 ## 2 · Capital required
 
@@ -38,7 +38,7 @@ A realistic lean start of three vehicles with two employed drivers sits at AED 7
 
 ## 3 · Licence & jurisdiction
 
-The regulatory structure for chauffeur and limousine service is more specific than most transport categories. Two separate approvals are required before you can move a paying passenger.
+The regulatory structure for chauffeur and limousine service is more specific than most transport categories. Two separate approvals are required before you can move a single paying passenger.
 
 The first is a DET mainland commercial licence with the transport services activity classification. The second — and this is the approval that many founders underestimate — is the RTA limousine operator permit. The RTA prescribes which vehicle categories are approved for limousine operations, reviews driver qualifications, and can inspect vehicles before authorising them for commercial passenger use. The permit is tied to specific vehicles, not to a general category, so adding a vehicle to the fleet requires notifying the RTA and updating the permit accordingly.
 
@@ -58,7 +58,7 @@ The first three paying customers in chauffeur and limousine service come from re
 
 **Corporate accounts.** Mid-size companies in the DIFC, Media City, and the business parks along Sheikh Zayed Road regularly use chauffeur services for executive transport without maintaining their own fleet. Contact operations managers, executive assistants, and the PA networks of senior executives. A face-to-face meeting, a trial booking at a preferential rate, and a clear contract with defined service levels will open these accounts.
 
-**Event and wedding planners.** Dubai's events industry is large and generates consistent demand for premium transport on specific dates. Introduce yourself to three or four established event management companies and wedding planners. The work is date-clustered and operationally demanding — multiple vehicles, tight timings — but the per-booking revenue is strong and the referral network, once you are known as reliable, generates repeat introductions.
+**Event and wedding planners.** Dubai's events industry is large and generates consistent demand for premium transport on specific dates. Introduce yourself to three or four established event management companies and wedding planners. The work is date-clustered and operationally demanding — multiple vehicles, tight timings — but the per-booking revenue is strong, and the referral network, once you are known as reliable, generates repeat introductions.
 
 ## 5 · Profit margins & cash cycle
 
@@ -70,7 +70,7 @@ The economics of chauffeur and limousine service are more margin-friendly than m
 
 **The cash cycle** in this business is relatively forgiving compared with car rental. Corporate accounts are invoiced monthly and pay in thirty to sixty days — manageable, though watch the gap. Hotel referrals may pay per booking or weekly. Events are typically invoiced and paid within a short window of the event date. The main cash pressure point is the front-loaded capital expenditure on vehicles, which depreciates regardless of utilisation.
 
-**Utilisation irregularity** is the specific trap: weekday corporate demand is strong; weekend demand falls. If your cost base assumes seven-day utilisation but your corporate accounts only need you Monday to Friday, the weekend idle cost erodes margin substantially. Build your pricing on realistic weekly utilisation, not theoretical daily maximums.
+**Utilisation irregularity** is the specific trap: weekday corporate demand is strong; weekend demand falls. If your cost base assumes seven-day utilisation but your corporate accounts only need you Monday to Friday, the weekend idle cost erodes margin substantially. Build your pricing on realistic weekly utilisation, not theoretical daily maximums. The fantasy fleet runs seven days. The real one does not.
 
 Realistic breakeven: nine to fifteen months with consistent hotel and corporate volume.
 

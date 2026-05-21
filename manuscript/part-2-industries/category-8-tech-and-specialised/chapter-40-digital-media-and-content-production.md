@@ -2,11 +2,11 @@ PART TWO — THE FIELD GUIDE  ·  TECH & SPECIALISED
 
 # Chapter 40 · Digital Media & Content Production
 
-*A creative business that lives or dies by the quality of its output, the efficiency of its production process, and the retainer agreements it can build around both.*
+*A creative business that lives or dies by three things — the quality of its output, the efficiency of its production process, and the retainers it can build around both.*
 
 ---
 
-Content is the fuel that every modern brand needs and almost none of them want to produce themselves. Video, photography, social content, podcasts, animation — the demand for all of it has increased sharply as platforms have multiplied, and the businesses that supply it well, at a professional standard, on a reliable schedule, are in genuinely good shape. The challenge is that the word "content" is so broad that "digital media and content production" can mean anything from a solo videographer with a camera to a multi-discipline studio with a broadcast capability. This chapter treats the business as it actually operates in Dubai at a professional level.
+Content is the fuel that every modern brand needs and almost none of them want to produce themselves. Video, photography, social content, podcasts, animation — demand for all of it has climbed sharply as platforms have multiplied, and the businesses that supply it well, at a professional standard, on a reliable schedule, are in genuinely good shape. The catch is that the word "content" is so broad that "digital media and content production" can mean anything from a solo videographer with a camera to a multi-discipline studio with a broadcast capability. This chapter treats the business as it actually operates in Dubai at a professional level.
 
 ## 1 · What this business actually is in Dubai
 
@@ -16,7 +16,7 @@ Dubai is a strong market for this business. The city's brand culture — the con
 
 The media free zones add a structural consideration. Dubai Media City (DMC) was built for media, broadcasting, and content businesses, and is the natural home for a company that intends to position itself to large commercial clients or international media organisations. The in5 Media hub within DMC offers lower-cost entry for early-stage creative businesses.
 
-One local reality requires direct attention. Filming in public locations in Dubai — on public streets, at landmarks, at government-owned venues — requires a film permit from the relevant authority. The Dubai Film and TV Commission issues permits for filming in the emirate, and specific locations such as airports, ports, and government buildings carry their own permit requirements. Operating without the correct permits creates compliance risk and can delay productions at the worst possible moment. Build permit procurement time — and cost — into every project schedule from day one.
+One local reality requires direct attention. Filming in public locations in Dubai — on public streets, at landmarks, at government-owned venues — requires a film permit from the relevant authority. The Dubai Film and TV Commission issues permits for filming in the emirate, and specific locations such as airports, ports, and government buildings carry their own permit requirements. Operating without the correct permits creates compliance risk and can stop a production at the worst possible moment. Build permit procurement time — and cost — into every project schedule from day one.
 
 A fixed studio adds a different dimension: consistent control over the production environment, the ability to attract clients who need studio-based work, and a meaningful fixed-cost base. Studio space in Dubai is available to hire by the day or week before you commit to your own, and most early-stage production companies should test studio demand with rented space before signing a lease.
 

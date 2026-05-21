@@ -2,21 +2,21 @@ PART TWO — THE FIELD GUIDE  ·  PERSONAL & LIFESTYLE SERVICES
 
 # Chapter 12 · Spa & Wellness Centre
 
-*A business that straddles leisure and healthcare — and the moment you add a massage table, a second regulator walks through the door.*
+*Add a massage table, and a second regulator walks through the door.*
 
 ---
 
-The spa and wellness centre sits in unusual regulatory territory. It begins as a personal services business and, the moment it adds any massage or therapeutic treatment, it becomes a partially medical one. That duality shapes the licence, the staffing, the layout, and the costs in ways that catch underprepared founders at exactly the wrong moment — after they have signed the lease.
+The spa and wellness centre sits in unusual regulatory territory. It begins as a personal services business. The moment it adds any massage or therapeutic treatment, it becomes a partially medical one. That duality shapes the licence, the staffing, the layout, and the costs — and it catches underprepared founders at exactly the wrong moment, after they have signed the lease.
 
 ## 1 · What this business actually is in Dubai
 
-A spa in Dubai can mean a number of things, and the distinction between them matters legally. At one end of the spectrum is the day spa offering facials, body wraps, and relaxation treatments — a personal services model that sits primarily under Dubai Municipality oversight alongside a DET commercial licence. At the other end is the medical spa or wellness centre offering massage therapy, physiotherapy, chiropractic, or any form of health treatment — which triggers Dubai Health Authority (DHA) jurisdiction and requires specific facility approval and licensed healthcare professionals on the premises.
+A spa in Dubai can mean several things, and the distinction between them is legal, not cosmetic. At one end of the spectrum is the day spa offering facials, body wraps, and relaxation treatments — a personal services model that sits primarily under Dubai Municipality oversight alongside a DET commercial licence. At the other end is the medical spa or wellness centre offering massage therapy, physiotherapy, chiropractic, or any form of health treatment — which triggers Dubai Health Authority (DHA) jurisdiction and requires specific facility approval and licensed healthcare professionals on the premises.
 
-Most founders entering this category are aiming at the middle ground: a well-designed wellness space offering a curated menu of massage, body treatments, and facial services, positioned as a retreat rather than a medical facility. That middle ground is accessible, but it is not licence-light. Any treatment that can be classified as therapeutic massage falls under DHA authority. Dubai Municipality still regulates the physical premises for hygiene and safety. DET issues the commercial licence. You are, from the moment you open a treatment room, navigating three concurrent regulatory relationships.
+Most founders entering this category are aiming at the middle ground: a well-designed wellness space offering a curated menu of massage, body treatments, and facial services, positioned as a retreat rather than a medical facility. That middle ground is accessible. It is not licence-light. Any treatment that can be classified as therapeutic massage falls under DHA authority. Dubai Municipality still regulates the physical premises for hygiene and safety. DET issues the commercial licence. From the moment you open a treatment room, you are navigating three concurrent regulatory relationships.
 
 The client profile leans strongly toward Dubai's resident expatriate population — women in particular, across the mid-to-premium income bracket. The visitor market is a supplement, not a foundation. Unlike a hotel spa that benefits from captive guests, a standalone wellness centre depends entirely on building a loyal local client base, and it does so in a market where options are plentiful and switching costs are low.
 
-Format matters. The successful models tend to be either compact and specialist — four to six treatment rooms, a clear signature offering, strong brand identity — or larger lifestyle destinations that bundle spa, salon, and wellness under one roof. The hybrid format is ambitious to fund and complex to operate; the focused specialist is a sounder entry point.
+Format matters. The successful models tend to be either compact and specialist — four to six treatment rooms, a clear signature offering, strong brand identity — or larger lifestyle destinations that bundle spa, salon, and wellness under one roof. The hybrid format is ambitious to fund and complex to operate. The focused specialist is a sounder entry point.
 
 ---
 
@@ -66,7 +66,7 @@ The first paying clients of a new wellness centre come from identifiable, reacha
 
 A well-run spa can achieve gross margins of 55–68%, with variable costs limited to consumables (oils, linens, products) and the direct labour of the therapist delivering the treatment. Net margin, after rent, staff salaries, visa overhead, and regulatory costs, typically settles at 14–24% in a stable operation with good occupancy rates.
 
-The occupancy dynamic is the defining metric. A treatment room earns only when a client is in it. An empty room generates no revenue but carries its full share of fixed costs. Operators who do not track room occupancy by hour and by day cannot manage their business — they can only observe it.
+The occupancy dynamic is the defining metric. A treatment room earns only when a client is in it. An empty room generates no revenue but carries its full share of fixed costs. Operators who do not track room occupancy by hour and by day cannot manage their business — they can only watch it happen to them.
 
 The cash cycle is favourable at the transactional level: clients pay before or at the time of service. The trap is the front-loaded cost structure: full rent in advance, fit-out absorbed before the first booking, visas and DHA approvals paid before the first treatment is performed. The gap between cash out and first cash in is often four to six months. A founder who has not fully funded that gap will face a crisis that has nothing to do with the quality of the service.
 

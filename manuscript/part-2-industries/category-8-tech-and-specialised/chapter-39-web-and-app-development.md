@@ -2,11 +2,11 @@ PART TWO — THE FIELD GUIDE  ·  TECH & SPECIALISED
 
 # Chapter 39 · Web & Mobile App Development
 
-*An agency model whose ceiling is set by the quality of its developers and the discipline with which it scopes every project.*
+*An agency whose ceiling is set by two things only — the quality of its developers and the discipline with which it scopes every project.*
 
 ---
 
-Web and mobile app development agencies fill a gap that will never close: businesses of every size need digital products built, and most of them cannot or will not employ the developers to build them in-house. Dubai's business environment — large, diverse, fast-moving, with an unusual concentration of new businesses arriving every year — generates a steady flow of that demand. The challenge for the agency founder is not finding the opportunity; it is building the operational discipline to convert that opportunity into profit rather than into beautiful work delivered late and over budget.
+Web and mobile app development agencies fill a gap that will never close. Businesses of every size need digital products built, and most of them cannot or will not employ the developers to build them in-house. Dubai's business environment — large, diverse, fast-moving, with an unusual concentration of new businesses arriving every year — generates a steady flow of that demand. The challenge for the agency founder is not finding the opportunity. It is building the operational discipline to convert that opportunity into profit rather than into beautiful work delivered late and over budget.
 
 ## 1 · What this business actually is in Dubai
 
@@ -16,7 +16,7 @@ In Dubai, the client base is extraordinarily varied. You will pitch to a retail 
 
 The Dubai market is also notable for the speed at which clients expect work to move. A company that has been operational for six months has already decided its brand, rented its office, and hired its team; they want the website now. The pressure to start before the scope is clear is real and persistent, and it is the single most reliable source of project losses in this business.
 
-Competition in the Dubai development agency market is genuine. The city has a large number of freelancers — skilled developers from across the region and beyond who operate at rates that an agency with a licensed office and a staffed team cannot match on a per-hour basis. Your competitive advantage is not price; it is process, accountability, and the ability to deliver a complete product to a quality threshold that a solo freelancer cannot reliably match.
+Competition in the Dubai development agency market is genuine. The city has a large number of freelancers — skilled developers from across the region and beyond who operate at rates that an agency with a licensed office and a staffed team cannot match on a per-hour basis. Your competitive advantage is not price. It is process, accountability, and the ability to deliver a complete product to a quality threshold that a solo freelancer cannot reliably match.
 
 ## 2 · Capital required
 

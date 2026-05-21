@@ -2,21 +2,21 @@ PART TWO — THE FIELD GUIDE  ·  PERSONAL & LIFESTYLE SERVICES
 
 # Chapter 13 · Fitness Studio & Gym
 
-*A business fuelled by recurring membership revenue — as long as you can fill the floor and hold the member.*
+*Recurring membership revenue is the dream — as long as you can fill the floor and hold the member.*
 
 ---
 
-Fitness is one of Dubai's most competitive personal services categories. The population is young, health-conscious, and saturated with options ranging from multinational franchise chains to boutique yoga studios in converted villas. The business model — membership-based, recurring-revenue, infrastructure-heavy — is genuinely attractive when it works. The challenge is that "when it works" depends on a combination of location, format, and member retention that takes longer to build than most founders expect.
+Fitness is one of Dubai's most competitive personal services categories. The population is young, health-conscious, and saturated with options ranging from multinational franchise chains to boutique yoga studios in converted villas. The business model — membership-based, recurring-revenue, infrastructure-heavy — is genuinely attractive when it works. The catch is in those last two words. "When it works" depends on a combination of location, format, and member retention that takes longer to build than most founders expect.
 
 ## 1 · What this business actually is in Dubai
 
-A fitness studio or gym in Dubai operates across a wide format spectrum. At one end is the large-floor commercial gym — cardio equipment, free weights, group classes, change rooms — targeting the volume member who pays AED 200–400 per month and attends irregularly. At the other end is the specialist boutique studio: a reformer Pilates studio with twelve machines, a HIIT box with twenty stations, a CrossFit box with a leased unit in an industrial area. These businesses are not variations of the same model; they have different cost structures, different member profiles, and different competitive dynamics.
+A fitness studio or gym in Dubai operates across a wide format spectrum. At one end is the large-floor commercial gym — cardio equipment, free weights, group classes, change rooms — targeting the volume member who pays AED 200–400 per month and attends irregularly. At the other end is the specialist boutique studio: a reformer Pilates studio with twelve machines, a HIIT box with twenty stations, a CrossFit box with a leased unit in an industrial area. These businesses are not variations of the same model. They have different cost structures, different member profiles, and different competitive dynamics.
 
 Registration with Dubai Sports Council is required for fitness facilities in Dubai, alongside the standard DET commercial licence. This is not a perfunctory step — Dubai Sports Council has standards for facility size, equipment, and trainer qualifications that must be met before and during operation. Personal trainers and group fitness instructors working in your facility must hold recognised certifications; Dubai Sports Council has approved a list of international certifying bodies it recognises, and qualifications outside that list are not accepted. Confirm the current list with Dubai Sports Council directly before hiring.
 
-The customer is Dubai's resident working population, broadly between 25 and 50 years old, international in origin, and accustomed to a range of fitness concepts imported from their home markets. The visitor market is incidental. This business needs residents, and specifically residents who live or work within a convenient distance of the facility. Commuters who drive twenty minutes across the city to work out three times a week are the exception; the reliable member lives nearby.
+The customer is Dubai's resident working population, broadly between 25 and 50 years old, international in origin, and accustomed to a range of fitness concepts imported from their home markets. The visitor market is incidental. This business needs residents, and specifically residents who live or work within a convenient distance of the facility. Commuters who drive twenty minutes across the city to work out three times a week are the exception. The reliable member lives nearby.
 
-The model's economics hinge on two numbers: the member count and the monthly churn rate. A facility that holds its members retains its revenue without continuous acquisition spend. One that churns members at 8–12% per month is perpetually on a marketing treadmill, spending to replace the people it loses rather than building on the base it has established.
+The model's economics hinge on two numbers: the member count and the monthly churn rate. A facility that holds its members keeps its revenue without continuous acquisition spend. One that churns members at 8–12% per month is perpetually on a marketing treadmill, spending to replace the people it loses rather than building on the base it has established.
 
 ---
 

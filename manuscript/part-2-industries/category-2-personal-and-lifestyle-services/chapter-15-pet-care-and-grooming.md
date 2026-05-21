@@ -2,7 +2,7 @@ PART TWO — THE FIELD GUIDE  ·  PERSONAL & LIFESTYLE SERVICES
 
 # Chapter 15 · Pet Care & Grooming
 
-*A fast-growing niche in Dubai's personal services landscape — with a regulatory boundary you must understand before you design a single service.*
+*A fast-growing niche — with one regulatory boundary you must understand before you design a single service.*
 
 ---
 
@@ -12,7 +12,7 @@ Pet ownership in Dubai has grown steadily over the past decade, and with it the 
 
 A pet care and grooming business in Dubai operates in a clearly defined commercial space: the preparation, cleaning, and day-to-day care of companion animals, principally dogs and cats, for a fee. The typical service menu includes grooming (bathing, drying, trimming, nail clipping, ear cleaning), boarding (overnight or extended stays in a supervised facility), day care (drop-in supervision during working hours), and ancillary retail (food, accessories, grooming products).
 
-What this business is not — and cannot be without crossing into a separately and strictly regulated professional category — is a veterinary clinic. Any service that involves the diagnosis, treatment, or medical management of an animal's health falls under veterinary medicine, which is regulated as a licensed medical profession through the Ministry of Climate Change and Environment and relevant local authorities. Veterinary services require a licensed veterinarian, a separately approved clinic facility, and a distinct set of approvals that sit entirely outside the scope of a grooming and boarding business. Founders who are tempted to offer "health checks," injectable services, or medicated treatments without this framework are operating in a compliance risk zone, not a service gap.
+What this business is not — and cannot be without crossing into a separately and strictly regulated professional category — is a veterinary clinic. Any service that involves the diagnosis, treatment, or medical management of an animal's health falls under veterinary medicine, which is regulated as a licensed medical profession through the Ministry of Climate Change and Environment and relevant local authorities. Veterinary services require a licensed veterinarian, a separately approved clinic facility, and a distinct set of approvals that sit entirely outside the scope of a grooming and boarding business. Founders tempted to offer "health checks," injectable services, or medicated treatments without this framework are not finding a service gap. They are standing in a compliance risk zone.
 
 Within the legitimate grooming and boarding space, the regulatory touchpoints are the Ministry of Climate Change and Environment, which has authority over regulations concerning animals in the UAE, and Dubai Municipality, which oversees commercial premises where animals are held. Both must be satisfied for a commercial animal care facility to operate legally.
 
