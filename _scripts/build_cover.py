@@ -22,7 +22,7 @@ TRIM_W = 6.0          # in
 TRIM_H = 9.0          # in
 BLEED = 0.125         # in, each outer edge
 
-PAGE_COUNT = 376      # interior pages — keep in sync with book.pdf
+PAGE_COUNT = 379      # interior pages — keep in sync with book.pdf
 PAGE_THICKNESS = 0.002252   # KDP, b/w interior on white paper
 SPINE = round(PAGE_COUNT * PAGE_THICKNESS, 4)
 
